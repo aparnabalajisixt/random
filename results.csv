@@ -1,6 +1,16 @@
 Branch,Name,Country,BranchType,IsCorporate,IsAgency
+622,closed- Sankt Johann in Tirol,AT,BranchTypeDowntown,Corporate,Agency
+806,Villach,AT,BranchTypeDowntown,Corporate,Agency
+807,Klagenfurt Airport,AT,BranchTypeAirport,Corporate,Agency
 1033,Chauff.Austria LZN,AT,BranchTypeAggregation,Franchise,NotAgency
+2589,Dornbirn,AT,BranchTypeDowntown,Corporate,Agency
 4722,Deltas Limousine Clement KEG,AT,BranchTypeLimousineService,Franchise,NotAgency
+5871,closed-Altenrhein Airport (A),AT,BranchTypeAirport,Corporate,Agency
+7371,Meiningen,AT,BranchTypeDowntown,Corporate,Agency
+40105,closed- Kitzbühel,AT,BranchTypeDowntown,Corporate,Agency
+41205,closed- Kaprun ,AT,BranchTypeDowntown,Corporate,Agency
+45059,Kitzbühel,AT,BranchTypeDowntown,Corporate,Agency
+46051,Klagenfurt,AT,BranchTypeDowntown,Corporate,Agency
 779,closed-Belgium Zentralkostenst,BE,BranchTypeOther,Franchise,NotAgency
 3291,closed- Handmietvertr Brussels,BE,BranchTypeOther,Franchise,NotAgency
 3507,closed-- Brussels Airport,BE,BranchTypeAirport,Franchise,NotAgency
@@ -66,12 +76,223 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 4160,-- Scarborough -closed-,CA,BranchTypeDowntown,Franchise,NotAgency
 4161,-- Thunder Bay -closed- (Sixt-,CA,BranchTypeDowntown,Franchise,NotAgency
 4162,-- Mirabel -closed- (Sixt-Doll,CA,BranchTypeDowntown,Franchise,NotAgency
+256,closed Basel Badischer Bhf B&A,CH,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+823,closed- Lausanne,CH,BranchTypeDowntown,Corporate,Agency
+824,closed-Bern-Belp Airport,CH,BranchTypeAirport,Corporate,Agency
+952,Lugano Airport (Agno),CH,BranchTypeAirport,Corporate,Agency
+953,Lugano,CH,BranchTypeDowntown,Corporate,Agency
 1032,Chauff.Schweiz LZN,CH,BranchTypeAggregation,Franchise,NotAgency
 4721,WF Limousine AG,CH,BranchTypeLimousineService,Franchise,NotAgency
-249,closed Trier Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Franchise,NotAgency
-401,closed Donauwoerth Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Franchise,NotAgency
-404,closed Lueneburg Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Franchise,NotAgency
-415,closed- Passau Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Franchise,NotAgency
+4828,closed- Locarno,CH,BranchTypeDowntown,Corporate,Agency
+5079,closed-Bern,CH,BranchTypeDowntown,Corporate,Agency
+5868,closed-Altenrhein Airport (CH),CH,BranchTypeAirport,Corporate,Agency
+8051,closed- Luzern,CH,BranchTypeDowntown,Corporate,Agency
+8143,closed- Lugano Airport/Agno,CH,BranchTypeAirport,Corporate,Agency
+8144,Lugano Paradiso,CH,BranchTypeDowntown,Corporate,Agency
+8147,Zurich Helppoint Lugano,CH,BranchTypeImplant,Corporate,Agency
+8155,closed- Luzern,CH,BranchTypeDowntown,Corporate,Agency
+40029,Chur,CH,BranchTypeDowntown,Corporate,Agency
+40848,Schaffhausen/Neuhausen,CH,BranchTypeDowntown,Corporate,Agency
+44630,closed- Gstaad,CH,BranchTypeDowntown,Corporate,Agency
+12,closed Weilheim,DE,BranchTypeDowntown,Corporate,Agency
+19,closed Frankfurt/Oder,DE,BranchTypeDowntown,Corporate,Agency
+27,closed Verden,DE,BranchTypeDowntown,Corporate,Agency
+28,closed- Hamburg Lokstedt,DE,BranchTypeDowntown,Corporate,Agency
+29,Hamelin (until Jul 31),DE,BranchTypeDowntown,Corporate,Agency
+38,closed Gera,DE,BranchTypeTrainStation,Corporate,Agency
+41,Elmshorn,DE,BranchTypeDowntown,Corporate,Agency
+44,closed Cuxhaven,DE,BranchTypeDowntown,Corporate,Agency
+45,closed Dortmund,DE,BranchTypeDowntown,Corporate,Agency
+46,Castrop-Rauxel,DE,BranchTypeDowntown,Corporate,Agency
+47,Bruchsal,DE,BranchTypeDowntown,Corporate,Agency
+48,closed Bitterfeld,DE,BranchTypeDowntown,Corporate,Agency
+49,Bergkamen,DE,BranchTypeDowntown,Corporate,Agency
+50,closed Bautzen,DE,BranchTypeDowntown,Corporate,Agency
+51,closed Eschwege,DE,BranchTypeDowntown,Corporate,Agency
+52,Arnsberg,DE,BranchTypeDowntown,Corporate,Agency
+53,closed Alzey,DE,BranchTypeDowntown,Corporate,Agency
+54,Albstadt Tailfingen,DE,BranchTypeDowntown,Corporate,Agency
+55,Augsburg-Mühlhausen Airport,DE,BranchTypeAirport,Corporate,Agency
+56,closed Hamburg-Altona,DE,BranchTypeDowntown,Corporate,Agency
+57,Celle,DE,BranchTypeDowntown,Corporate,Agency
+59,closed- Deggendorf,DE,BranchTypeDowntown,Corporate,Agency
+60,closed Neubrandenburg,DE,BranchTypeDowntown,Corporate,Agency
+61,closed- Giengen on the Brenz,DE,BranchTypeDowntown,Corporate,Agency
+62,CLOSED Schwaebisch Gmuend,DE,BranchTypeDowntown,Corporate,Agency
+63,Rendsburg-Buedelsdorf,DE,BranchTypeDowntown,Corporate,Agency
+65,closed Parchim,DE,BranchTypeDowntown,Corporate,Agency
+66,closed- Wismar,DE,BranchTypeDowntown,Corporate,Agency
+67,Wittenberge,DE,BranchTypeDowntown,Corporate,Agency
+68,Brück,DE,BranchTypeDowntown,Corporate,Agency
+69,closed-Pforzheim,DE,BranchTypeDowntown,Corporate,Agency
+70,closed- Landsberg/Lech,DE,BranchTypeDowntown,Corporate,Agency
+71,closed - Emden/Ostfriesland,DE,BranchTypeDowntown,Corporate,Agency
+76,Neumuenster (until 30/06/2012),DE,BranchTypeDowntown,Corporate,Agency
+77,closed- Bonn Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+79,closed Amberg,DE,BranchTypeDowntown,Corporate,Agency
+80,closed- Greifswald,DE,BranchTypeDowntown,Corporate,Agency
+81,Paderborn-Lippstadt Airp(until31.1.),DE,BranchTypeAirport,Corporate,Agency
+84,CLOSED Bremen Nord,DE,BranchTypeDowntown,Corporate,Agency
+85,closed- Mettmann,DE,BranchTypeDowntown,Corporate,Agency
+94,closed - Eisenach,DE,BranchTypeDowntown,Corporate,Agency
+97,closed Wolfsburg,DE,BranchTypeDowntown,Corporate,Agency
+98,closed- Kempten (Allgäu),DE,BranchTypeDowntown,Corporate,Agency
+101,closed Essen,DE,BranchTypeDowntown,Corporate,Agency
+102,closed- Witten/Hattingen,DE,BranchTypeDowntown,Corporate,Agency
+103,closed- Lohmar,DE,BranchTypeDowntown,Corporate,Agency
+104,Hildesheim (until 30/06/2011),DE,BranchTypeDowntown,Corporate,Agency
+122,closed- Oldenburg (until 12/,DE,BranchTypeDowntown,Corporate,Agency
+126,Bad Hersfeld/Neuenstein,DE,BranchTypeDowntown,Corporate,Agency
+128,closed Hagen Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+131,Weiden/Oberpfalz,DE,BranchTypeDowntown,Corporate,Agency
+133,closed Merseburg,DE,BranchTypeDowntown,Corporate,Agency
+135,closed Fulda,DE,BranchTypeDowntown,Corporate,Agency
+143,closed - Muelheim,DE,BranchTypeDowntown,Corporate,Agency
+149,closed Wolfratshausen,DE,BranchTypeDowntown,Corporate,Agency
+156,Aschaffenburg,DE,BranchTypeDowntown,Corporate,Agency
+157,Hamm,DE,BranchTypeDowntown,Corporate,Agency
+158,Schwelm,DE,BranchTypeDowntown,Corporate,Agency
+159,Bremerhaven (until 29.02.),DE,BranchTypeDowntown,Corporate,Agency
+161,closed- Hamm (Westf.) Station,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+163,closed-Osnabrück BHF B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+167,closed Rosenheim,DE,BranchTypeDowntown,Corporate,Agency
+169,closed Hueven (Emsland),DE,BranchTypeDowntown,Corporate,Agency
+170,closed- Rotenburg/Wuemme (unti,DE,BranchTypeDowntown,Corporate,Agency
+172,closed-Straubing,DE,BranchTypeDowntown,Corporate,Agency
+173,closed Mühldorf/Inn,DE,BranchTypeDowntown,Corporate,Agency
+176,closed-Wuppertal Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+183,closed  Meissen,DE,BranchTypeTrainStation,Corporate,Agency
+185,closed Riesa,DE,BranchTypeTrainStation,Corporate,Agency
+186,Potsdam,DE,BranchTypeDowntown,Corporate,Agency
+189,closed Traunstein,DE,BranchTypeDowntown,Corporate,Agency
+193,closed Pirna,DE,BranchTypeTrainStation,Corporate,Agency
+195,Stade-Dollern,DE,BranchTypeDowntown,Corporate,Agency
+197,closed- Soest,DE,BranchTypeDowntown,Corporate,Agency
+199,closed Garmisch-Partenkirchen,DE,BranchTypeTrainStation,Corporate,Agency
+212,Closed- Bruchsal Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+218,Wiesbaden (US Military),DE,BranchTypeAAFES,Corporate,Agency
+220,closed-Karlsruhe Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+221,closed Offenburg Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+222,closed- Plochingen Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+224,closed Plauen,DE,BranchTypeDowntown,Corporate,Agency
+235,Ramstein (US Military),DE,BranchTypeAAFES,Corporate,Agency
+245,Friedrichshafen Airport,DE,BranchTypeAirport,Corporate,Agency
+248,closed- Halle Central Train St,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+249,closed Trier Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Franchise,Agency
+250,Closed- Aschaffenburg Hbf. B&A,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+251,Hohenfels (US Military),DE,BranchTypeAAFES,Corporate,Agency
+252,CLOSED Baden-Baden Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+255,Vilseck (US Military),DE,BranchTypeAAFES,Corporate,Agency
+258,Grafenwoehr (US Military),DE,BranchTypeAAFES,Corporate,Agency
+259,closed München Ost Bhf.B&AMWS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+262,Spangdahlem (US Military),DE,BranchTypeAAFES,Corporate,Agency
+266,closed Fulda Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+269,Baumholder (US Military),DE,BranchTypeAAFES,Corporate,Agency
+271,Böblingen Panzer (US Military),DE,BranchTypeAAFES,Corporate,Agency
+274,closed- Hildesheim Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+277,closed- Koblenz Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+278,closed- Mainz Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+280,closed- Offenbach Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+281,CLOSED - Wiesbaden Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+282,closed Worms Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+284,closed Braunschweig Hauptbahnh,DE,BranchTypeTrainStation,Corporate,Agency
+285,CLOSED - Bremen Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+286,closed- Bremerhaven Station,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+287,closed- Delmenhorst B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+288,closed Erfurt Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+290,Closed- Hamburg-Altona Bhf.,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+292,Hamburg Harburg Train Station ,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+293,closed- Kassel Hbf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+295,closed-Lübeck Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+296,closed- Neumünster Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+297,closed- Oldenburg Central Trai,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+299,closed Wolfsburg Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+309,closed- München Pasing B&AMWS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+315,CLOSED Salzgitter,DE,BranchTypeDowntown,Corporate,Agency
+318,closed - Luedenscheid -closed-,DE,BranchTypeDowntown,Corporate,Agency
+321,closed- Plattling Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+322,closed Flensburg-Harrislee,DE,BranchTypeDowntown,Corporate,Agency
+325,closed Siegen-Seelbach,DE,BranchTypeDowntown,Corporate,Agency
+329,closed - Wilhelmshaven,DE,BranchTypeDowntown,Corporate,Agency
+331,closed-Goslar,DE,BranchTypeDowntown,Corporate,Agency
+332,closed- Goettingen,DE,BranchTypeDowntown,Corporate,Agency
+333,closed Braunschweig,DE,BranchTypeDowntown,Corporate,Agency
+339,closed Stendal,DE,BranchTypeDowntown,Corporate,Agency
+352,closed-Wiehl-Marienhagen  gesc,DE,BranchTypeDowntown,Corporate,Agency
+355,closed Rosenheim Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+367,Kaiserslautern (until 31.8.11),DE,BranchTypeDowntown,Corporate,Agency
+383,closed-Berlin Wannsee Bhf. B&A,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+390,closed- Potsdam Central St.,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+396,closed Stendal Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+400,closed- Dusseldorf Flingern,DE,BranchTypeDowntown,Corporate,Agency
+401,closed Donauwoerth Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Franchise,Agency
+402,Brandenburg,DE,BranchTypeDowntown,Corporate,Agency
+403,closed - Gummersbach,DE,BranchTypeDowntown,Corporate,Agency
+404,closed Lueneburg Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Franchise,Agency
+405,closed- Itzehoe ,DE,BranchTypeDowntown,Corporate,Agency
+407,Halberstadt,DE,BranchTypeDowntown,Corporate,Agency
+408,closed Bad Oldesloe,DE,BranchTypeDowntown,Corporate,Agency
+409,Stralsund,DE,BranchTypeDowntown,Corporate,Agency
+410,closed- Gotha,DE,BranchTypeDowntown,Corporate,Agency
+413,closed Grimma,DE,BranchTypeDowntown,Corporate,Agency
+414,Wernigerode,DE,BranchTypeDowntown,Corporate,Agency
+415,closed- Passau Bhf. B&AMwS,DE,BranchTypeBahnAndMietwagenServicestation,Franchise,Agency
+416,closed- Worms,DE,BranchTypeDowntown,Corporate,Agency
+417,closed Wittstock,DE,BranchTypeDowntown,Corporate,Agency
+418,closed-Wetter,DE,BranchTypeDowntown,Corporate,Agency
+419,Waren,DE,BranchTypeDowntown,Corporate,Agency
+420,closed- Viersen,DE,BranchTypeDowntown,Corporate,Agency
+421,closed Viersen-Duelken,DE,BranchTypeDowntown,Corporate,Agency
+423,closed- schwaebisch Hall gesch,DE,BranchTypeDowntown,Corporate,Agency
+424,CLOSED Salzgitter Lebenstedt,DE,BranchTypeDowntown,Corporate,Agency
+425,Rheine,DE,BranchTypeDowntown,Corporate,Agency
+426,Closed - Radevormwald,DE,BranchTypeDowntown,Corporate,Agency
+427,closed - Quakenbrueck,DE,BranchTypeDowntown,Corporate,Agency
+428,closed- Plettenberg,DE,BranchTypeDowntown,Corporate,Agency
+430,closed Pirmasens,DE,BranchTypeDowntown,Corporate,Agency
+431,closed- Pinneberg,DE,BranchTypeDowntown,Corporate,Agency
+432,closed-Oldenburg in Holstein,DE,BranchTypeDowntown,Corporate,Agency
+433,closed Offenburg,DE,BranchTypeDowntown,Corporate,Agency
+434,Oberhausen,DE,BranchTypeDowntown,Corporate,Agency
+436,closed Nordhorn,DE,BranchTypeDowntown,Corporate,Agency
+437,Bayreuth,DE,BranchTypeDowntown,Corporate,Agency
+438,closed - Neustadt,DE,BranchTypeTrainStation,Corporate,Agency
+439,closed Neumarkt,DE,BranchTypeDowntown,Corporate,Agency
+441,closed Moers,DE,BranchTypeDowntown,Corporate,Agency
+442,closed- Mayen,DE,BranchTypeDowntown,Corporate,Agency
+443,closed Marburg Hauptbahnhof,DE,BranchTypeTrainStation,Corporate,Agency
+444,closed Wittenberg/Lutherstadt,DE,BranchTypeDowntown,Corporate,Agency
+445,CLOSED Luebeck-Travemuende,DE,BranchTypeDowntown,Corporate,Agency
+446,Heide/Norderwöhrden,DE,BranchTypeDowntown,Corporate,Agency
+452,closed - Koeln-Ossendorf,DE,BranchTypeDowntown,Corporate,Agency
+453,closed - Kleve,DE,BranchTypeDowntown,Corporate,Agency
+454,Kevelaer,DE,BranchTypeDowntown,Corporate,Agency
+455,CLOSED Kempen,DE,BranchTypeDowntown,Corporate,Agency
+456,closed Iserlohn,DE,BranchTypeDowntown,Corporate,Agency
+457,closed- Idar-Oberstein,DE,BranchTypeDowntown,Corporate,Agency
+458,closed Hoyerswerda,DE,BranchTypeDowntown,Corporate,Agency
+459,Hof,DE,BranchTypeDowntown,Corporate,Agency
+460,closed Herne,DE,BranchTypeDowntown,Corporate,Agency
+461,closed- Herne,DE,BranchTypeDowntown,Corporate,Agency
+462,closed Heiligenhaus,DE,BranchTypeDowntown,Corporate,Agency
+463,closed- Haiger,DE,BranchTypeDowntown,Corporate,Agency
+464,Hagen (lobby),DE,BranchTypeDowntown,Corporate,Agency
+465,closed Guestrow Shell Tankstel,DE,BranchTypeDowntown,Corporate,Agency
+466,closed Gronau,DE,BranchTypeDowntown,Corporate,Agency
+467,closed- Eberswalde (until sep,DE,BranchTypeDowntown,Corporate,Agency
+468,closed Duesseldorf,DE,BranchTypeDowntown,Corporate,Agency
+475,closed Potsdam,DE,BranchTypeDowntown,Corporate,Agency
+481,closed Dessau,DE,BranchTypeDowntown,Corporate,Agency
+483,closed- Bottrop,DE,BranchTypeDowntown,Corporate,Agency
+484,closed - Lingen,DE,BranchTypeDowntown,Corporate,Agency
+485,closed Goerlitz,DE,BranchTypeTrainStation,Corporate,Agency
+486,Langen,DE,BranchTypeDowntown,Corporate,Agency
+487,closed Neustadt-Fernthal,DE,BranchTypeDowntown,Corporate,Agency
+488,closed- Lohr am Main (ab 1.7.),DE,BranchTypeDowntown,Corporate,Agency
+489,closed- Hamburg-Bergedorf,DE,BranchTypeDowntown,Corporate,Agency
+491,closed- Lunen,DE,BranchTypeDowntown,Corporate,Agency
+496,closed Starnberg,DE,BranchTypeDowntown,Corporate,Agency
+497,closed-Zwickau Central TrainSt,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
 600,closed- LZN Berlin Limo closed,DE,BranchTypeLimousineService,Franchise,NotAgency
 601,closed Taufkirchen/Vils,DE,BranchTypeDowntown,Franchise,NotAgency
 602,closed- Landshut II geschlosse,DE,BranchTypeDowntown,Franchise,NotAgency
@@ -95,48 +316,193 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 672,closed Lueneburg,DE,BranchTypeDowntown,Franchise,NotAgency
 673,closed Uelzen,DE,BranchTypeDowntown,Franchise,NotAgency
 674,closed Salzwedel,DE,BranchTypeDowntown,Franchise,NotAgency
+770,Haigerloch (near Balingen),DE,BranchTypeDowntown,Corporate,Agency
 1074,Sixt Guadeloupe G.V.Sarl.,DE,BranchTypeAggregation,Franchise,NotAgency
 1077,Sixt Brazil P.J.P.,DE,BranchTypeAggregation,Franchise,NotAgency
+1105,closed- Burgwedel ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
+1106,closed- Buchholz Dibbersen/SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1108,closed- Heide ADAC SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+1109,closed- Tönning ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+1113,closed- Großenaspe ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+1114," ",DE,BranchTypeADACPartners,Corporate,Agency
+1115,closed- Mariental/SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+1116,closed- Lüneburg/SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+1157,Detmold,DE,BranchTypeDowntown,Corporate,Agency
+1164,Straubing,DE,BranchTypeDowntown,Corporate,Agency
+1167,Kaiserslautern,DE,BranchTypeDowntown,Corporate,Agency
+1172,closed- Flensburg  ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1173,closed- Kiel ADAC SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+1174,closed- Rastatt ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1175,closed- Bruchsal ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1176,closed- Karlsruhe/SDI Auto Böh,DE,BranchTypeADACPartners,Corporate,Agency
+1177,closed- Baden-Baden ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1178,closed- Fellbach ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1179,closed- Ludwigsburg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1180,closed- Backnang ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+1181,closed- Tübingen ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+1182,closed- Pforzheim ADAC SDI P.,DE,BranchTypeADACPartners,Corporate,Agency
+1183,closed- Neu Ulm ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+1184,closed- Germersheim ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1185,closed- Bad Krozingen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1186,closed- Waldkirch/Kollnau ADAC,DE,BranchTypeADACPartners,Corporate,Agency
+1189,closed- Landau - ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1190,closed- Empfingen ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+1208,Hildesheim  Einum/SDI Fleige,DE,BranchTypeADACPartners,Corporate,Agency
+1220,closed- Paderborn,DE,BranchTypeDowntown,Corporate,Agency
+1225,Munich Ottobrunn,DE,BranchTypeDowntown,Corporate,Agency
+1226,closed- Ottobrunn/EADS Self Se,DE,BranchTypeImplant,Corporate,Agency
+1364,closed- Karlsruhe Centre,DE,BranchTypeDowntown,Corporate,Agency
+1376,closed- Wesel,DE,BranchTypeDowntown,Corporate,Agency
+1383,Hagen-Hohenlimburg,DE,BranchTypeDowntown,Corporate,Agency
+1386,Plauen (until 31.10.2013),DE,BranchTypeDowntown,Corporate,Agency
+1387,closed - Oberhausen,DE,BranchTypeDowntown,Corporate,Agency
 1434,Sixt Saint Martin,DE,BranchTypeAggregation,Franchise,NotAgency
+1594,closed- Neumünster Station ,DE,BranchTypeTrainStation,Corporate,Agency
+1639,Berlin Station Gesundbrunnen,DE,BranchTypeTrainStation,Corporate,Agency
+1649,closed- Castrop-Rauxel,DE,BranchTypeDowntown,Corporate,Agency
+1663,closed- Lindau (Bodensee),DE,BranchTypeDowntown,Corporate,Agency
+1667,Bonn South/Hotel Maritim,DE,BranchTypeDowntown,Corporate,Agency
+1671,closed- Bonn Altstadt/Hilton,DE,BranchTypeDowntown,Corporate,Agency
+1673,closed- Cologne Ossendorf,DE,BranchTypeDowntown,Corporate,Agency
+1832,closed-Munich/Westin Grand,DE,BranchTypeDowntown,Corporate,Agency
 1835,closed- United Germany Bingen,DE,BranchTypeOther,Franchise,NotAgency
+1836,closed- Plauen,DE,BranchTypeDowntown,Corporate,Agency
+1837,closed- Haldensleben ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+1864,closed- Offenbach,DE,BranchTypeDowntown,Corporate,Agency
+1865,Emsdetten/Mercedes Beresa,DE,BranchTypeDowntown,Corporate,Agency
+1866,closed- Ahaus Mercedes Beresa,DE,BranchTypeDowntown,Corporate,Agency
 1895,closed- United Germany Kierspe,DE,BranchTypeOther,Franchise,NotAgency
 1896,closed- United Germany Bad,DE,BranchTypeOther,Franchise,NotAgency
+1899,closed- Zwickau,DE,BranchTypeDowntown,Corporate,Agency
+1901,closed- Usedom Heringsdorf AP,DE,BranchTypeAirport,Corporate,Agency
+1903,closed- Bansin,DE,BranchTypeDowntown,Corporate,Agency
 1908,closed- United Germany Berlin,DE,BranchTypeOther,Franchise,NotAgency
+1911,closed- Zweibruecken Airport,DE,BranchTypeAirport,Corporate,Agency
 1941,Sixt Kanaran (Cicar),DE,BranchTypeAggregation,Franchise,NotAgency
 1942,closed- United Germany Aachen,DE,BranchTypeOther,Franchise,NotAgency
+2000,closed- Korbach,DE,BranchTypeDowntown,Corporate,Agency
+2011,Wedel,DE,BranchTypeDowntown,Corporate,Agency
+2012,Stralsund,DE,BranchTypeDowntown,Corporate,Agency
+2013,Ratingen/Tryp Hotel,DE,BranchTypeDowntown,Corporate,Agency
 2037,closed- United Germany Achim,DE,BranchTypeOther,Franchise,NotAgency
+2038,closed- Limburg Offheim,DE,BranchTypeDowntown,Corporate,Agency
+2041,closed- Weiden (until Mar 30),DE,BranchTypeDowntown,Corporate,Agency
 2042,closed- United Germ.MUC,DE,BranchTypeOther,Franchise,NotAgency
+2050,closed- Karlsruhe Centr.Train,DE,BranchTypeTrainStation,Corporate,Agency
+2061,closed- Bad FreienwaldeADACSDI,DE,BranchTypeADACPartners,Corporate,Agency
+2069,Esslingen,DE,BranchTypeDowntown,Corporate,Agency
+2075,Marburg,DE,BranchTypeDowntown,Corporate,Agency
+2076,Waiblingen,DE,BranchTypeDowntown,Corporate,Agency
+2084,closed- Leer/Ostfriesland,DE,BranchTypeDowntown,Corporate,Agency
+2090,Hof (until 30.06. 2014),DE,BranchTypeDowntown,Corporate,Agency
+2097,Fulda,DE,BranchTypeDowntown,Corporate,Agency
 2214,closed- United Germ. Offenbach,DE,BranchTypeOther,Franchise,NotAgency
+2222,Ludwigshafen,DE,BranchTypeDowntown,Corporate,Agency
+2223,closed- Grevenbroich (bis 30.6,DE,BranchTypeDowntown,Corporate,Agency
+2224,closed - Siegen,DE,BranchTypeDowntown,Corporate,Agency
+2225,closed- Olpe/Wenden,DE,BranchTypeDowntown,Corporate,Agency
+2226,closed- Bietigheim Bissingen,DE,BranchTypeDowntown,Corporate,Agency
+2236,closed- Aurich,DE,BranchTypeDowntown,Corporate,Agency
 2267,closed- United Germ Königsbr.,DE,BranchTypeOther,Franchise,NotAgency
+2322,closed- Hagen/MB Implant Juer.,DE,BranchTypeImplant,Corporate,Agency
+2323,closed- Wuppertal Centre,DE,BranchTypeDowntown,Corporate,Agency
+2355,Bonn Wachtberg (until 14.10.),DE,BranchTypeDowntown,Corporate,Agency
 2375,closed- United Germ. Oranienb.,DE,BranchTypeOther,Franchise,NotAgency
+2379,closed- Augsburg Central Train,DE,BranchTypeTrainStation,Corporate,Agency
+2380,Augsburg Airport,DE,BranchTypeAirport,Corporate,Agency
+2394,closed- Bottrop BMW Procar Imp,DE,BranchTypeImplant,Corporate,Agency
+2395,closed- Solingen,DE,BranchTypeDowntown,Corporate,Agency
+2396,closed- Wuppertal BMW Procar,DE,BranchTypeImplant,Corporate,Agency
+2398,closed- Ravensburg/Weingarten,DE,BranchTypeDowntown,Corporate,Agency
+2406,closed- Hagen Jürgens MB-Impl,DE,BranchTypeImplant,Corporate,Agency
+2407,Bayreuth,DE,BranchTypeDowntown,Corporate,Agency
+2408,closed- Hof,DE,BranchTypeDowntown,Corporate,Agency
 2409,closed- United Germ. Bramsche,DE,BranchTypeOther,Franchise,NotAgency
+2413,closed- Vechta,DE,BranchTypeDowntown,Corporate,Agency
 2421,closed- United Germ. Strausb.,DE,BranchTypeOther,Franchise,NotAgency
+2423,closed- Regensburg Central St,DE,BranchTypeTrainStation,Corporate,Agency
+2424,Regensburg,DE,BranchTypeDowntown,Corporate,Agency
+2425,closed- Regensburg Self-Serv.,DE,BranchTypeImplant,Corporate,Agency
+2426,Ingolstadt Central Station,DE,BranchTypeTrainStation,Corporate,Agency
+2427,closed- Fürth,DE,BranchTypeDowntown,Corporate,Agency
+2428,Coburg (DE),DE,BranchTypeDowntown,Corporate,Agency
+2429,Wurzburg Central Station,DE,BranchTypeTrainStation,Corporate,Agency
+2430,Wurzburg,DE,BranchTypeDowntown,Corporate,Agency
+2431,Bamberg,DE,BranchTypeDowntown,Corporate,Agency
+2432,Schweinfurt Central Station,DE,BranchTypeTrainStation,Corporate,Agency
+2433,closed- Coburg/Brose Self,DE,BranchTypeImplant,Corporate,Agency
+2441,closed_ Oranienburg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+2442,Bonn Bad Godesberg,DE,BranchTypeDowntown,Corporate,Agency
+2443,closed - Weiden,DE,BranchTypeDowntown,Corporate,Agency
+2444,closed- Ramstein,DE,BranchTypeDowntown,Corporate,Agency
+2445,closed- Vilseck,DE,BranchTypeDowntown,Corporate,Agency
+2446,Wunstorf,DE,BranchTypeDowntown,Corporate,Agency
 2450,closed- United Germany Jena,DE,BranchTypeOther,Franchise,NotAgency
 2451,closed- United Germ. Freiburg,DE,BranchTypeOther,Franchise,NotAgency
+2457,closed- Rust Europa-Park (M&G),DE,BranchTypeDowntown,Corporate,Agency
 2459,closed- United Germany Koblenz,DE,BranchTypeOther,Franchise,NotAgency
 2468,closed- United Germ. Deggend,DE,BranchTypeOther,Franchise,NotAgency
+2469,closed- Fehmarn/Burg,DE,BranchTypeDowntown,Corporate,Agency
+2470,Landau an der Isar,DE,BranchTypeDowntown,Corporate,Agency
+2499,closed- Paderborn Airport,DE,BranchTypeAirport,Corporate,Agency
+2500,closed- Heide,DE,BranchTypeDowntown,Corporate,Agency
 2510,closed- United Germ.Wolfschl,DE,BranchTypeOther,Franchise,NotAgency
 2511,closed- United Germ. Neustadt,DE,BranchTypeOther,Franchise,NotAgency
 2512,closed- United Germ Ludwigsh,DE,BranchTypeOther,Franchise,NotAgency
 2524,closed- United Germ Bensheim,DE,BranchTypeOther,Franchise,NotAgency
 2525,closed- United Germany FFM,DE,BranchTypeOther,Franchise,NotAgency
+2534,Crailsheim,DE,BranchTypeDowntown,Corporate,Agency
 2544,closed- United Germany Frankf,DE,BranchTypeOther,Franchise,NotAgency
 2549,closed- United Germany Bremen,DE,BranchTypeOther,Franchise,NotAgency
 2550,closed- United Germany München,DE,BranchTypeOther,Franchise,NotAgency
+2554,Heringsdorf Airport,DE,BranchTypeAirport,Corporate,Agency
+2556,closed- Cologne Deutz,DE,BranchTypeDowntown,Corporate,Agency
 2557,closed- United Germany Rostock,DE,BranchTypeOther,Franchise,NotAgency
+2574,closed- Sylt/Westerland,DE,BranchTypeDowntown,Corporate,Agency
+2575,Sylt Airport (until 31 July),DE,BranchTypeAirport,Corporate,Agency
 2576,closed- United Germany Aham,DE,BranchTypeOther,Franchise,NotAgency
 2580,closed- United Germany Hamburg,DE,BranchTypeOther,Franchise,NotAgency
 2592,closed- United Germany Overath,DE,BranchTypeOther,Franchise,NotAgency
 2593,closed- United Germany Heek,DE,BranchTypeOther,Franchise,NotAgency
 2594,closed- United Germ. Stukenbr,DE,BranchTypeOther,Franchise,NotAgency
+2597,closed- Rheine Nord,DE,BranchTypeDowntown,Corporate,Agency
+2598,closed- Moenchengladbach,DE,BranchTypeDowntown,Corporate,Agency
+2599,Nordhausen,DE,BranchTypeDowntown,Corporate,Agency
+2866,Bad Tolz,DE,BranchTypeDowntown,Corporate,Agency
+2874,Emden,DE,BranchTypeDowntown,Corporate,Agency
+3255,closed- Karlsruhe Europahalle,DE,BranchTypeDowntown,Corporate,Agency
+3405,CLOSED Berlin-Schoeneweide,DE,BranchTypeDowntown,Corporate,Agency
+3406,closed- Kaiserslautern Hbf. B&,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+3414,closed- Fürstenfeldbruck,DE,BranchTypeDowntown,Corporate,Agency
 3422,closed Erlangen II (Siemens),DE,BranchTypeDowntown,Franchise,NotAgency
+3448,closed- Bielefeld Sennestadt,DE,BranchTypeDowntown,Corporate,Agency
 3481,closed Berchtesgaden,DE,BranchTypeDowntown,Franchise,NotAgency
+3517,closed - Lahr,DE,BranchTypeDowntown,Corporate,Agency
 3518,closed Erding,DE,BranchTypeDowntown,Franchise,NotAgency
+3520,closed Beckum,DE,BranchTypeDowntown,Corporate,Agency
+3525,closed Papenburg,DE,BranchTypeDowntown,Corporate,Agency
+3545,closed-Bad Wuennenberg-Helmern,DE,BranchTypeDowntown,Corporate,Agency
+3813,closed Laatzen-ADAC,DE,BranchTypeDowntown,Corporate,Agency
+3859,Weimar,DE,BranchTypeDowntown,Corporate,Agency
+4240,Munich Bayerischer Hof,DE,BranchTypeDowntown,Corporate,Agency
+4263,closed- Ulm Central Train Stat,DE,BranchTypeTrainStation,Corporate,Agency
+4264,closed- Ulm/EADS SelfService,DE,BranchTypeImplant,Corporate,Agency
+4269,Oberhausen Van Truck 12 t,DE,BranchTypeDowntown,Corporate,Agency
+4272,Luedenscheid Truck 12 t,DE,BranchTypeDowntown,Corporate,Agency
+4275,closed- Kreuztal/Hilchenbach,DE,BranchTypeDowntown,Corporate,Agency
+4349,closed- Lippstadt (bis 30.06.),DE,BranchTypeDowntown,Corporate,Agency
+4412,Vechta (until Sep 30th),DE,BranchTypeDowntown,Corporate,Agency
+4431,Heppenheim,DE,BranchTypeDowntown,Corporate,Agency
+4432,Siegen,DE,BranchTypeDowntown,Corporate,Agency
+4443,closed - Cuxhaven,DE,BranchTypeDowntown,Corporate,Agency
+4481,Baden-Baden,DE,BranchTypeDowntown,Corporate,Agency
 4489,closed- Amberg,DE,BranchTypeDowntown,Franchise,NotAgency
 4624,closed - Ravensburg,DE,BranchTypeDowntown,Franchise,NotAgency
+4676,closed- Offenburg (bis 30.6.),DE,BranchTypeDowntown,Corporate,Agency
 4723,closed- Lüneburg,DE,BranchTypeDowntown,Franchise,NotAgency
 4741,closed-Chauffeurservice Hinter,DE,BranchTypeDowntown,Franchise,NotAgency
 4784,closed Uelzen,DE,BranchTypeDowntown,Franchise,NotAgency
+4788,closed - Sylt,DE,BranchTypeDowntown,Corporate,Agency
 4790,closed- Riesa,DE,BranchTypeDowntown,Franchise,NotAgency
 4791,closed- Pirna,DE,BranchTypeDowntown,Franchise,NotAgency
 4792,closed- Meissen,DE,BranchTypeDowntown,Franchise,NotAgency
@@ -144,112 +510,498 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 4794,closed -Goerlitz - closed -,DE,BranchTypeDowntown,Franchise,NotAgency
 4800,closed- Freilassing,DE,BranchTypeDowntown,Franchise,NotAgency
 4839,Kempen,DE,BranchTypeDowntown,Franchise,NotAgency
+4917,Salzgitter,DE,BranchTypeDowntown,Corporate,Agency
 4930,closed - Traunstein DT,DE,BranchTypeDowntown,Franchise,NotAgency
 4938,Closed- Tuttlingen,DE,BranchTypeDowntown,Franchise,NotAgency
+4942,closed- Flensburg DT,DE,BranchTypeDowntown,Corporate,Agency
 5039,closed- Uelzen,DE,BranchTypeDowntown,Franchise,NotAgency
+5049,closed- Hilden/Erkrath,DE,BranchTypeDowntown,Corporate,Agency
+5050,closed- Oelde,DE,BranchTypeDowntown,Corporate,Agency
 5056,closed - Berchtesgaden,DE,BranchTypeDowntown,Franchise,NotAgency
 5057,closed - Nettetal,DE,BranchTypeDowntown,Franchise,NotAgency
+5082,Rosrath,DE,BranchTypeDowntown,Corporate,Agency
+5083,closed- Gummersbach ,DE,BranchTypeDowntown,Corporate,Agency
+5091,closed-Ibbenbüren,DE,BranchTypeDowntown,Corporate,Agency
 5108,Moers,DE,BranchTypeDowntown,Franchise,NotAgency
+5133,closed- Wilhelmshaven,DE,BranchTypeDowntown,Corporate,Agency
+5143,Detmold,DE,BranchTypeDowntown,Corporate,Agency
+5161,Flensburg-Harrislee(unt 30.4.),DE,BranchTypeDowntown,Corporate,Agency
+5162,closed- Eisenach,DE,BranchTypeDowntown,Corporate,Agency
+5241,closed-Emden DT/Ostfriesland,DE,BranchTypeDowntown,Corporate,Agency
+5247,Crailsheim,DE,BranchTypeDowntown,Corporate,Agency
+5259,closed- Gera City Centre,DE,BranchTypeDowntown,Corporate,Agency
+5295,closed-Neustadt a.d. Weinstras,DE,BranchTypeTrainStation,Corporate,Agency
+5341,Sylt Strandhotel till 1.6.10,DE,BranchTypeDowntown,Corporate,Agency
+5342,closed- Siegburg ,DE,BranchTypeDowntown,Corporate,Agency
+5427,Waiblingen,DE,BranchTypeDowntown,Corporate,Agency
+5435,closed- Amberg,DE,BranchTypeDowntown,Corporate,Agency
+5589,closed-Emden,DE,BranchTypeDowntown,Corporate,Agency
+5591,closed- Frankfurt/Oder,DE,BranchTypeDowntown,Corporate,Agency
+5596,closed-Binz/Island Ruegen,DE,BranchTypeDowntown,Corporate,Agency
+5601,closed- Guetersloh,DE,BranchTypeDowntown,Corporate,Agency
+5602,closed Harsewinkel,DE,BranchTypeDowntown,Corporate,Agency
+5605,St. Wendel,DE,BranchTypeDowntown,Corporate,Agency
+5624,closed- Brandenburg DC Implant,DE,BranchTypeImplant,Corporate,Agency
+5634,closed-Nienburg/Weser,DE,BranchTypeDowntown,Corporate,Agency
+5635,Lingen,DE,BranchTypeDowntown,Corporate,Agency
+5661,closed- BERLIN ADAC SDI PARTNE,DE,BranchTypeADACPartners,Corporate,Agency
+5663,closed-Cottbus ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+5664,closed- Dabergotz ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5665,closed- Dessau ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+5666,closed-Dresden ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+5667,closed- Freiberg ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+5668,closed- Halle/ADAC SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+5669,closed-Hörlitz ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+5670,closed- Köthen ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+5671,closed- Lübbenau ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+5672,closed- Merseburg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5673,closed- Neuensalz ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5675,closed- Leipzig ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5676,closed-Arnsdorf ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5678,closed- Radeburg ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+5679,closed- Weissenfels ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5680,closed- Wildau ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+5682,closed- Zwickau/ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5683,closed- Bautzen ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5684,closed- Glauchau ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+5685,closed- Rosenheim ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5686,closed- Burghaslach ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5687,closed- Memmelsdorf ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5688,closed- Kinding ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5689,closed- Offenbach ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5690,closed- Limburg ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5691,closed- Deesen ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5692,closed- Kaisersesch ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5693,closed- Hannover/SDI AMF Autos,DE,BranchTypeADACPartners,Corporate,Agency
+5694,closed- Misburg ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5695,closed- Kirchhorst ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+5696,closed- Peine ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+5697,closed- Nienburg ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+5699,closed- Schackendorf ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5700,closed- Hamburg ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5701,closed- Hannover ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+5702,closed- Lübeck/ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5703,closed- Schwülper ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
+5704,closed- Elmenhorst ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+5705,closed- Münster/SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+5706,closed- Krefeld ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5707,closed- Köln ADAC SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+5708,closed- Bad Wünneberg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5709,closed- Siegen ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+5710,closed- Bad Honnef ADAC SDI P,DE,BranchTypeOther,Corporate,Agency
+5711,closed- Wenden ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5712,closed- Esslingen ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5713,closed- Göppingen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5714,closed- Friedrichshafen ADAC,DE,BranchTypeADACPartners,Corporate,Agency
+5715,CLOSED - Leonberg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5716,closed- Stuttgart ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5717,closed- Neuhausen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5718,closed- Merklingen ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+5719,closed- Böblingen ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
+5720,closed- Rheinfelden ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+5722,closed- Trier-Euren (nahe Mess,DE,BranchTypeDowntown,Corporate,Agency
+5723,closed Trier-Mitte,DE,BranchTypeDowntown,Corporate,Agency
+5798,Bruchsal West (Indiustrial Are,DE,BranchTypeDowntown,Corporate,Agency
+5799,closed- Bergisch Gladbach,DE,BranchTypeDowntown,Corporate,Agency
+5854,Sundern,DE,BranchTypeDowntown,Corporate,Agency
+5869,Walsrode,DE,BranchTypeDowntown,Corporate,Agency
+5880,closed- Berlin Lichtenb. ADACS,DE,BranchTypeADACPartners,Corporate,Agency
+5881,closed- Cottbus ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5890,closed- Hamburg Harburg,DE,BranchTypeDowntown,Corporate,Agency
+5891,closed- Hamburg Bergedorf,DE,BranchTypeDowntown,Corporate,Agency
+5897,closed- Neresheim ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5898,Closed- Grevenbroich,DE,BranchTypeDowntown,Corporate,Agency
 5899,LZN St. Wendel Autoland,DE,BranchTypeOther,Franchise,NotAgency
+5901,closed Kleve /Bedburg-Hau,DE,BranchTypeDowntown,Corporate,Agency
+5903,closed- Genthin ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5905,closed- Hemau ADAC SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+5906,Closed - Landsberg/Lech ADAC,DE,BranchTypeADACPartners,Corporate,Agency
+5907,closed- Allershausen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5908,closed- Gröbenzell ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+5912,closed-Friedberg,DE,BranchTypeDowntown,Corporate,Agency
+5923,closed Biedenkopf DT,DE,BranchTypeDowntown,Corporate,Agency
+5965,closed- Wassenberg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+5970,closed- Wriezen ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5971,closed- Fürstenwalde ADAC,DE,BranchTypeADACPartners,Corporate,Agency
 5978,LZN Suhl Autoland,DE,BranchTypeOther,Franchise,NotAgency
+5981,closed-Haselünne,DE,BranchTypeDowntown,Corporate,Agency
+5982,closed- Brilon,DE,BranchTypeDowntown,Corporate,Agency
+5983,closed- Doebeln ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+5984,closed- Auetal ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+6006,closed- Büren,DE,BranchTypeDowntown,Corporate,Agency
+6055,closed- Ahrensburg,DE,BranchTypeDowntown,Corporate,Agency
+6056,St. Wendel,DE,BranchTypeDowntown,Corporate,Agency
+6057,Saarlouis,DE,BranchTypeDowntown,Corporate,Agency
+6058,closed- Eisleben Assistance,DE,BranchTypeADACPartners,Corporate,Agency
+6059,Freilassing,DE,BranchTypeDowntown,Corporate,Agency
+6068,Ramstein,DE,BranchTypeDowntown,Corporate,Agency
+6069,closed- Vilseck,DE,BranchTypeDowntown,Corporate,Agency
+6071,Bad Honnef (near Bonn),DE,BranchTypeDowntown,Corporate,Agency
+6086,closed- Torgau Vermittler Part,DE,BranchTypeADACPartners,Corporate,Agency
+6101,closed-Suhl,DE,BranchTypeDowntown,Corporate,Agency
+6102,Arnstadt,DE,BranchTypeDowntown,Corporate,Agency
+6103,Husum,DE,BranchTypeDowntown,Corporate,Agency
+6116,closed-Kirchheim ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6117,closed- Adelzhausen ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6118,closed-Forchheim ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6142,closed- Wasserlosen ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6143,closed- Zeithain /Riesa ADAC S,DE,BranchTypeADACPartners,Corporate,Agency
+6144,closed- Hof ADAC SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+6145,closed- Bayreuth ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6146,closed- Marktredwitz ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6149,Olpe/Wenden,DE,BranchTypeDowntown,Corporate,Agency
+6150,Siegen,DE,BranchTypeDowntown,Corporate,Agency
+6151,Lahr,DE,BranchTypeDowntown,Corporate,Agency
+6156,closed- Homburg/Saar,DE,BranchTypeDowntown,Corporate,Agency
+6157,closed- Nurtingen,DE,BranchTypeDowntown,Corporate,Agency
+6160,closed-Mühldorf,DE,BranchTypeDowntown,Corporate,Agency
+6179,closed_ Gera/ADAC Partner,DE,BranchTypeADACPartners,Corporate,Agency
+6180,closed- Erfurt ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6181,closed- Magdeburg ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
+6182,closed- Weisswasser ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6183,closed- Wanzleben ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
 6185,closed - Salzwedel,DE,BranchTypeDowntown,Franchise,NotAgency
+6199,closed- Mainz-Hechtsheim ADAC,DE,BranchTypeADACPartners,Corporate,Agency
+6200,closed-Kaisersesch ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+6201,closed- Koblenz ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+6213,Nordhorn,DE,BranchTypeDowntown,Corporate,Agency
+6214,closed- Werder / Havel,DE,BranchTypeDowntown,Corporate,Agency
+6215,Vechta,DE,BranchTypeDowntown,Corporate,Agency
+6216,closed- Dippoldiswalde ADAC SD,DE,BranchTypeADACPartners,Corporate,Agency
+6217,closed- Hildburghausen ADAC SD,DE,BranchTypeADACPartners,Corporate,Agency
 6225,LZN Bremervoerde Autoland,DE,BranchTypeOther,Franchise,NotAgency
+6226,closed- Naumburg ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6227,closed- Gersthofen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6230,Meschede,DE,BranchTypeDowntown,Corporate,Agency
+6234,Bensheim,DE,BranchTypeDowntown,Corporate,Agency
+6238,closed- Bietikow ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
 6239,closed- Botswana Handmietvertr,DE,BranchTypeOther,Franchise,NotAgency
 6241,HMV Brazil,DE,BranchTypeOther,Franchise,NotAgency
 6242,LZN Brilon Autoland,DE,BranchTypeOther,Franchise,NotAgency
+6326,closed-Hattingen,DE,BranchTypeDowntown,Corporate,Agency
+6333,Rosenheim,DE,BranchTypeDowntown,Corporate,Agency
+6366,Zella-Mehlis,DE,BranchTypeDowntown,Corporate,Agency
+6367,Closed - Lübben ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+6377,closed-Sulzbach/Saar,DE,BranchTypeDowntown,Corporate,Agency
+6415,closed- Wolfratshausen ADAC S,DE,BranchTypeADACPartners,Corporate,Agency
+6425,closed- Kienberg ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6446,closed- Torgau ADAC SDI Part.,DE,BranchTypeADACPartners,Corporate,Agency
+6447,closed- Loebau ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+6448,closed- Goerlitz/ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6460,closed- Dobschuetz ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
 6462,closed- United Germ.HH,DE,BranchTypeOther,Franchise,NotAgency
 6463,closed- United Germ. Landshut,DE,BranchTypeOther,Franchise,NotAgency
+6473,Wesel (until 02/29/2012),DE,BranchTypeDowntown,Corporate,Agency
+6474,closed- Maintal ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6475,closed- Wiesbaden ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
+6476,closed- Gross-Gerau ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6477,closed- Ruesselsheim ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6478,closed- Darmstadt ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6479,closed- Saarbrücken/SDI Gerd,DE,BranchTypeADACPartners,Corporate,Agency
+6480,closed- Groß-Umstadt ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6481,Syke,DE,BranchTypeDowntown,Corporate,Agency
 6488,Singen,DE,BranchTypeDowntown,Franchise,NotAgency
+6500,Attendorn,DE,BranchTypeDowntown,Corporate,Agency
 6505,Stockach/Moll,DE,BranchTypeDowntown,Franchise,NotAgency
+6506,CLOSED- Singen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6508,Schleswig,DE,BranchTypeDowntown,Corporate,Agency
+6518,Bottrop,DE,BranchTypeDowntown,Corporate,Agency
+6522,Iserlohn,DE,BranchTypeDowntown,Corporate,Agency
 6535,closed- United Germ. Lehrte DT,DE,BranchTypeOther,Franchise,NotAgency
 6536,closed- United Germ.Eitorf DT,DE,BranchTypeOther,Franchise,NotAgency
 6537,closed- United Germ.Schweinf.,DE,BranchTypeOther,Franchise,NotAgency
 6538,closed- United Germ.Crailsheim,DE,BranchTypeOther,Franchise,NotAgency
 6539,closed- United Germ. Loerrach,DE,BranchTypeOther,Franchise,NotAgency
 6540,closed- United Germ.Bremen,DE,BranchTypeOther,Franchise,NotAgency
+6542,closed - Trier,DE,BranchTypeDowntown,Corporate,Agency
 6563,closed- United Germ.Bremen,DE,BranchTypeOther,Franchise,NotAgency
+6564,closed- Muehlhausen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6565,closed- Heilb.Heiligenstadt/SD,DE,BranchTypeADACPartners,Corporate,Agency
+6566,closed- Northeim ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6567,closed- Osterode ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6568," ",DE,BranchTypeADACPartners,Corporate,Agency
+6569,closed- Noerten Hardenberg ADA,DE,BranchTypeADACPartners,Corporate,Agency
+6570,closed- Muenden ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+6571,closed- Rosdorf ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+6572,closed- Stempeda ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6573,closed- Eisleben/ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6574,closed- Sangerhausen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6575,closed- Nordhausen ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+6576,closed- Kassel ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+6577,closed- Eschwege ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6578,closed- Korbach ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+6579,closed- Sachsenhausen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6580,closed- Volkmarsen ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+6581,closed- Lichtenau ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
+6582,closed- Guxhagen ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6583,closed- Vellmar ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
 6584,closed- United Germ.HH(Carme,DE,BranchTypeOther,Franchise,NotAgency
 6585,closed- United Germ.Ruhstorf,DE,BranchTypeOther,Franchise,NotAgency
 6586,closed- United Germany Plauen,DE,BranchTypeOther,Franchise,NotAgency
 6587,closed- United Germ.Ingolstadt,DE,BranchTypeOther,Franchise,NotAgency
 6588,closed- United Germ.Koeln (HE),DE,BranchTypeOther,Franchise,NotAgency
+6608,Greiz,DE,BranchTypeDowntown,Corporate,Agency
 6610,closed- United Germ.Berlin,DE,BranchTypeOther,Franchise,NotAgency
+6611,Emden (until 30.06.2011),DE,BranchTypeDowntown,Corporate,Agency
+6619,closed-Senftenberg ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+6620,closed- Michendorf ADAC SDI Pa,DE,BranchTypeADACPartners,Corporate,Agency
+6621,closed- Nossen ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+6622,closed- Berlin Kreuzberg ADAC,DE,BranchTypeADACPartners,Corporate,Agency
+6623,closed- Berlin Pankow ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+6628,closed- Berlin Charlottenb.ADA,DE,BranchTypeADACPartners,Corporate,Agency
+6629,closed-Ismaning,DE,BranchTypeDowntown,Corporate,Agency
+6636,closed- Kronau ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6648,Kaufbeuren,DE,BranchTypeDowntown,Corporate,Agency
+6649,Garmisch-Partenkirchen,DE,BranchTypeDowntown,Corporate,Agency
 6653,closed- United Germ. Würzburg,DE,BranchTypeOther,Franchise,NotAgency
 6654,closed- United Germany Lahr,DE,BranchTypeOther,Franchise,NotAgency
+6657,Baden-Airpark/Karlsruhe Airpt.,DE,BranchTypeAirport,Corporate,Agency
+6682,closed- Wittlich ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+6685,closed- Meppen,DE,BranchTypeDowntown,Corporate,Agency
+6688,Dueren,DE,BranchTypeDowntown,Corporate,Agency
 6736,Pool Muscat DT,DE,BranchTypeAggregation,Franchise,NotAgency
+6745,closed- Emden-for return only,DE,BranchTypeDowntown,Corporate,Agency
+6801," ",DE,BranchTypeADACPartners,Corporate,Agency
 6832,LZN Flensburg Autoland,DE,BranchTypeOther,Franchise,NotAgency
+6834,closed- München ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
 6844,closed- United Germ.Duesseld,DE,BranchTypeOther,Franchise,NotAgency
 6845,closed- United Germ.Dortmund,DE,BranchTypeOther,Franchise,NotAgency
+6846,Ahrensburg (until 31.12.2010),DE,BranchTypeDowntown,Corporate,Agency
 6851,closed- United Germ.Rheinbac,DE,BranchTypeOther,Franchise,NotAgency
+6853,Lindau (BMW Wölfle),DE,BranchTypeDowntown,Corporate,Agency
+6862,closed- Ottensoos ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6863,Essen-Kray,DE,BranchTypeDowntown,Corporate,Agency
 6867,closed- United Germ. Nuernberg,DE,BranchTypeOther,Franchise,NotAgency
 6868,closed- United Germ.Darmstadt,DE,BranchTypeOther,Franchise,NotAgency
+6878,Dessau,DE,BranchTypeDowntown,Corporate,Agency
+6894,closed- Betzenstein ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6896,closed- Wertheim ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
 6898,closed- United Germ. Neubrburg,DE,BranchTypeOther,Franchise,NotAgency
+6902,Plauen,DE,BranchTypeDowntown,Corporate,Agency
 6908,closed- United Germ. Schwerin,DE,BranchTypeOther,Franchise,NotAgency
 6909,closed- United Germ.Köln,DE,BranchTypeOther,Franchise,NotAgency
+6924,closed- Freising,DE,BranchTypeDowntown,Corporate,Agency
+6948,closed-Oberhaussen Zeppelin I.,DE,BranchTypeImplant,Corporate,Agency
+6953,closed- Sietow ADAC SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+6955,closed- Reichenbach ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6963,closed- Sigmaringen ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+6964,Kleve,DE,BranchTypeDowntown,Corporate,Agency
+6970,closed- Sigmaringen ,DE,BranchTypeDowntown,Corporate,Agency
 6971,closed- United Germ. HH (eco),DE,BranchTypeOther,Franchise,NotAgency
+6972,Pegnitz,DE,BranchTypeDowntown,Corporate,Agency
 6986,closed- United Germany Neuss,DE,BranchTypeOther,Franchise,NotAgency
 6993,closed- United Germ. Sulz,DE,BranchTypeOther,Franchise,NotAgency
 6997,Kaldenkirchen,DE,BranchTypeDowntown,Franchise,NotAgency
+6998,Goslar,DE,BranchTypeDowntown,Corporate,Agency
+7011,Oldenburg/Holstein,DE,BranchTypeDowntown,Corporate,Agency
+7013,Luedenscheid,DE,BranchTypeDowntown,Corporate,Agency
 7014,closed- United Germany Aschaff,DE,BranchTypeOther,Franchise,NotAgency
+7023,closed -Lüdenscheid VAG Implan,DE,BranchTypeImplant,Corporate,Agency
+7028,Willingen/Sauerlandstern,DE,BranchTypeDowntown,Corporate,Agency
+7029,Gelsenkirchen,DE,BranchTypeDowntown,Corporate,Agency
+7038,closed- Schifferstadt ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7039,closed- Kirchheimbolanden ADAC,DE,BranchTypeADACPartners,Corporate,Agency
+7040,closed- Ludwigsh-Rheing. ADAC,DE,BranchTypeADACPartners,Corporate,Agency
+7045,Bad Salzuflen,DE,BranchTypeDowntown,Corporate,Agency
 7047,closed- United Germ. Berlin,DE,BranchTypeOther,Franchise,NotAgency
+7050,closed- Bad Brückenau ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7051,closed- Pilsach ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
 7052,closed- United Germ.Salzuflen,DE,BranchTypeOther,Franchise,NotAgency
 7089,closed- United Germany Thale,DE,BranchTypeOther,Franchise,NotAgency
+7094,Weissenburg,DE,BranchTypeDowntown,Corporate,Agency
 7097,closed- United Germ.Braunschw,DE,BranchTypeOther,Franchise,NotAgency
+7109,closed- Plüderhausen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7130,closed- Neuenhagen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7133,closed- Leipheim ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7134,closed- Jettingen-Schepp. ADAC,DE,BranchTypeADACPartners,Corporate,Agency
+7135,closed- Schweitenkirchen ADAC,DE,BranchTypeADACPartners,Corporate,Agency
+7136,closed- Donauwörth ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7137,closed- Reichertshofen-Lang. A,DE,BranchTypeADACPartners,Corporate,Agency
+7138,closed- Mainburg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7139,closed- Sülzfeld ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7140,closed- Sonneberg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7142,Landau a. d. Isar,DE,BranchTypeDowntown,Corporate,Agency
+7145,Egelsbach Airport,DE,BranchTypeAirport,Corporate,Agency
 7146,closed- United Germ. Magdeburg,DE,BranchTypeOther,Franchise,NotAgency
+7147,Muehldorf,DE,BranchTypeDowntown,Corporate,Agency
 7148,closed- United Germany Bamberg,DE,BranchTypeOther,Franchise,NotAgency
 7149,closed- United Germany Emstek,DE,BranchTypeOther,Franchise,NotAgency
 7150,closed- United Germ Dassendorf,DE,BranchTypeOther,Franchise,NotAgency
 7157,LZN Münster Autoland,DE,BranchTypeOther,Franchise,NotAgency
+7160,Pforzheim,DE,BranchTypeDowntown,Corporate,Agency
 7162,closed- United Germ Greifswald,DE,BranchTypeOther,Franchise,NotAgency
+7166,Saalfeld,DE,BranchTypeDowntown,Corporate,Agency
+7172,Wedel (until 30.09.2010),DE,BranchTypeDowntown,Corporate,Agency
+7178,Hennigsdorf,DE,BranchTypeDowntown,Corporate,Agency
 7180,closed- United Germ Dinklage,DE,BranchTypeOther,Franchise,NotAgency
+7186,Straubing,DE,BranchTypeDowntown,Corporate,Agency
+7187,Forchheim,DE,BranchTypeDowntown,Corporate,Agency
 7190,closed- United Germ Stuttgart,DE,BranchTypeOther,Franchise,NotAgency
 7194,closed- United Germ Braunschwe,DE,BranchTypeOther,Franchise,NotAgency
 7195,closed- United Germ HH (PS),DE,BranchTypeOther,Franchise,NotAgency
 7196,closed- United Germany Leipzig,DE,BranchTypeOther,Franchise,NotAgency
+7205,closed- Erfurt Günthersl.-Wech,DE,BranchTypeADACPartners,Corporate,Agency
 7235,closed- United Germ HH (Star),DE,BranchTypeOther,Franchise,NotAgency
 7236,closed- United Germ Neustad,DE,BranchTypeOther,Franchise,NotAgency
 7241,closed- United Germ Stadthagen,DE,BranchTypeOther,Franchise,NotAgency
+7244,closed- Neckersteinn. ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7245,closed- Annweiler ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
+7249,closed- Sulingen,DE,BranchTypeDowntown,Corporate,Agency
+7263,closed- Ratzeburg-Mustin,DE,BranchTypeDowntown,Corporate,Agency
+7264,closed- Geesthacht,DE,BranchTypeDowntown,Corporate,Agency
 7271,closed- United Germ Harrislee,DE,BranchTypeOther,Franchise,NotAgency
+7276,Closed -Heiligenhaus Velbert,DE,BranchTypeDowntown,Corporate,Agency
+7288,closed- Ravensburg,DE,BranchTypeDowntown,Corporate,Agency
 7289,closed- United Germ Lauf/Peg.,DE,BranchTypeOther,Franchise,NotAgency
+7298,Trier,DE,BranchTypeDowntown,Corporate,Agency
 7306,closed- United Germ Dillenburg,DE,BranchTypeOther,Franchise,NotAgency
+7309,closed- Neustrelitz (until Oct,DE,BranchTypeDowntown,Corporate,Agency
+7310,Ansbach,DE,BranchTypeDowntown,Corporate,Agency
+7311,closed- Bautzen,DE,BranchTypeDowntown,Corporate,Agency
 7312,closed- United Germany Passau,DE,BranchTypeOther,Franchise,NotAgency
 7319,closed- United Germany Lugau,DE,BranchTypeOther,Franchise,NotAgency
+7320,closed- Waren (Müritz),DE,BranchTypeDowntown,Corporate,Agency
+7330,closed- Bad Toelz,DE,BranchTypeDowntown,Corporate,Agency
+7332,Muelheim/Ruhr,DE,BranchTypeDowntown,Corporate,Agency
 7335,closed- United Germ. Rüsselsh,DE,BranchTypeOther,Franchise,NotAgency
+7347,Aschaffenburg,DE,BranchTypeDowntown,Corporate,Agency
+7348,closed- Aschaffenburg Hbf. B&A,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+7358,closed- Oschatz ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+7359,closed- Wurzen ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
 7361,closed- United Germ HH (CarGo),DE,BranchTypeOther,Franchise,NotAgency
+7364,closed- Freiberg neu ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+7376,closed- Niebull,DE,BranchTypeDowntown,Corporate,Agency
 7377,closed- United Germ Bad Honnef,DE,BranchTypeOther,Franchise,NotAgency
+7383,closed- Salzwedel,DE,BranchTypeDowntown,Corporate,Agency
 7384,closed- United Germ.Reichenh,DE,BranchTypeOther,Franchise,NotAgency
+7389,closed- Lutherstadt Wittenberg,DE,BranchTypeDowntown,Corporate,Agency
 7396,closed- United Germany Kerpen,DE,BranchTypeOther,Franchise,NotAgency
+7474,closed- Neumuenster,DE,BranchTypeDowntown,Corporate,Agency
+7475,closed- Hagen,DE,BranchTypeDowntown,Corporate,Agency
+7484,closed- Nienburg (Weser),DE,BranchTypeDowntown,Corporate,Agency
+7493,closed- Gronau,DE,BranchTypeDowntown,Corporate,Agency
+8005,closed- Lahr,DE,BranchTypeDowntown,Corporate,Agency
+8014,closed- Freital,DE,BranchTypeDowntown,Corporate,Agency
+8015,closed- Görlitz,DE,BranchTypeDowntown,Corporate,Agency
+8025,closed- Landshut Central Train,DE,BranchTypeTrainStation,Corporate,Agency
+8026,closed - Garmisch-Partenkirche,DE,BranchTypeDowntown,Corporate,Agency
+8030,closed- Arnstadt ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+8042,closed- Iggensbach ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+8043,closed- Zittau ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+8046,closed- Heide,DE,BranchTypeDowntown,Corporate,Agency
+8047,closed- Eckernförde,DE,BranchTypeDowntown,Corporate,Agency
+8048,closed- Husum,DE,BranchTypeDowntown,Corporate,Agency
+8052,Sylt AP/Self Serv. till 1.6.10,DE,BranchTypeAirport,Corporate,Agency
 8057,closed- United Germ.Magdeburg,DE,BranchTypeOther,Franchise,NotAgency
+8060,closed- Rosenheim,DE,BranchTypeDowntown,Corporate,Agency
+8061,Memmingen AP (until 31.10.),DE,BranchTypeAirport,Corporate,Agency
 8062,closed- United Germ. Würzburg,DE,BranchTypeOther,Franchise,NotAgency
+8068,Goeppingen,DE,BranchTypeDowntown,Corporate,Agency
+8074,closed- Altenburg,DE,BranchTypeDowntown,Corporate,Agency
 8075,closed- United Germ Haldensleb,DE,BranchTypeOther,Franchise,NotAgency
 8078,closed- United Germ Berlin,DE,BranchTypeOther,Franchise,NotAgency
+8080,closed - Arberg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+8087,Sinsheim,DE,BranchTypeDowntown,Corporate,Agency
+8088,Mosbach,DE,BranchTypeDowntown,Corporate,Agency
+8090,closed- Ribnitz-Damgarten,DE,BranchTypeDowntown,Corporate,Agency
+8093,closed- Bad Segeberg,DE,BranchTypeDowntown,Corporate,Agency
 8094,closed- United Germ.Westfalica,DE,BranchTypeOther,Franchise,NotAgency
+8095,Kunzelsau,DE,BranchTypeDowntown,Corporate,Agency
+8096,closed- Wittstock,DE,BranchTypeDowntown,Corporate,Agency
+8100,closed- Bispingen ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
+8107,closed -  Heide/Hemmingstedt,DE,BranchTypeDowntown,Corporate,Agency
+8126,closed- Halberstadt,DE,BranchTypeDowntown,Corporate,Agency
+8127,Wernigerode,DE,BranchTypeDowntown,Corporate,Agency
+8128,closed- Salzgitter,DE,BranchTypeDowntown,Corporate,Agency
 8135,closed- United Germ Magdeburg,DE,BranchTypeOther,Franchise,NotAgency
+8137,closed- Essingen near Aalen,DE,BranchTypeDowntown,Corporate,Agency
+8168,closed- Unna (till 31.12.15,DE,BranchTypeDowntown,Corporate,Agency
+8169,closed- Dortmund Hoerde,DE,BranchTypeDowntown,Corporate,Agency
+8187,closed- Leonberg,DE,BranchTypeDowntown,Corporate,Agency
+8194,closed- Lindau,DE,BranchTypeDowntown,Corporate,Agency
+8196,closed- Rehau - ONLY Rehau Emp,DE,BranchTypeImplant,Corporate,Agency
+8198,closed- Menden,DE,BranchTypeDowntown,Corporate,Agency
+8199,Recklinghausen,DE,BranchTypeDowntown,Corporate,Agency
+8200,Closed- Dorsten,DE,BranchTypeDowntown,Corporate,Agency
 8201,closed- United Germany München,DE,BranchTypeOther,Franchise,NotAgency
+8202,Goerlitz,DE,BranchTypeDowntown,Corporate,Agency
+8203,closed- Freital,DE,BranchTypeDowntown,Corporate,Agency
 8206,closed- United Germ Wuppertal,DE,BranchTypeOther,Franchise,NotAgency
 8207,closed- United Germ Karlsruhe,DE,BranchTypeOther,Franchise,NotAgency
 8212,closed- United Germ Eckernf,DE,BranchTypeOther,Franchise,NotAgency
+8235,closed- Cottbus ADAC SDI P.,DE,BranchTypeADACPartners,Corporate,Agency
 8240,closed- United Germany Hameln,DE,BranchTypeOther,Franchise,NotAgency
 8241,closed- United Germ Berlin Fun,DE,BranchTypeOther,Franchise,NotAgency
+8242,closed- Weiden,DE,BranchTypeDowntown,Corporate,Agency
+8244,closed- Mayen,DE,BranchTypeDowntown,Corporate,Agency
+8245,CLOSED- Oldenburg Ikea Implant,DE,BranchTypeImplant,Corporate,Agency
+8247,closed- Merzig ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+8248,closed- Dillingen ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+8259,Augsburg Airport,DE,BranchTypeAirport,Corporate,Agency
+8266,closed- Bergfelde ADAC SDI Par,DE,BranchTypeADACPartners,Corporate,Agency
+8267,closed- Bamberg ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+8268,closed- Marienberg  ADAC SDI P,DE,BranchTypeADACPartners,Corporate,Agency
+8273,closed- Reihen ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+8274,closed- Obrigheim-Asbach ADAC,DE,BranchTypeADACPartners,Corporate,Agency
 8276,closed- United Germ Halstenbek,DE,BranchTypeOther,Franchise,NotAgency
 8286,closed- United Germ.Heidenheim,DE,BranchTypeOther,Franchise,NotAgency
+8296,closed- Augsburg,DE,BranchTypeDowntown,Corporate,Agency
 8299,closed- United Germany Kiel,DE,BranchTypeOther,Franchise,NotAgency
 8300,closed- United Germ Osnabrück,DE,BranchTypeOther,Franchise,NotAgency
+8307,closed- Bad Oeynhausen,DE,BranchTypeDowntown,Corporate,Agency
+8315,Achim,DE,BranchTypeDowntown,Corporate,Agency
+8318,Bitterfeld,DE,BranchTypeDowntown,Corporate,Agency
 8319,closed- United Germ Wiedenbr.,DE,BranchTypeOther,Franchise,NotAgency
+8323,closed- Bremerhaven Cruise Ctr,DE,BranchTypeDowntown,Corporate,Agency
+8325,closed- Annaberg ADAC SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+8326,closed- Euskirchen,DE,BranchTypeDowntown,Corporate,Agency
+8332,closed Lingen Gerdes Implant,DE,BranchTypeImplant,Corporate,Agency
+8333,closed- Bansin,DE,BranchTypeDowntown,Corporate,Agency
+8337,Closed - Speyer,DE,BranchTypeDowntown,Corporate,Agency
 8344,closed- United Germ. Bremen,DE,BranchTypeOther,Franchise,NotAgency
 8347,closed- United Germ. Düdorf II,DE,BranchTypeOther,Franchise,NotAgency
 8348,closed- United Germ. Pforzheim,DE,BranchTypeOther,Franchise,NotAgency
 8350,closed- United Germ. Maulburg,DE,BranchTypeOther,Franchise,NotAgency
+8351,closed- Bad Toelz,DE,BranchTypeDowntown,Corporate,Agency
+8352,Garmisch-Partenkirchen,DE,BranchTypeDowntown,Corporate,Agency
+8360,closed- Saalfeld (until Jul 31,DE,BranchTypeDowntown,Corporate,Agency
+8362,Wuppertal-Varresbeck,DE,BranchTypeDowntown,Corporate,Agency
+8368,Rosenheim ,DE,BranchTypeDowntown,Corporate,Agency
+8399,Hagen (until 31.01.2013),DE,BranchTypeDowntown,Corporate,Agency
 8400,closed- United Germ Badbergen,DE,BranchTypeOther,Franchise,NotAgency
+8409,closed- Brandenburg ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+8410,closed- Neuruppin,DE,BranchTypeDowntown,Corporate,Agency
 8411,closed- United Germ.Hess Olden,DE,BranchTypeOther,Franchise,NotAgency
+8419,closed- Nienburg,DE,BranchTypeDowntown,Corporate,Agency
+8441,closed- Torgau,DE,BranchTypeDowntown,Corporate,Agency
+8442,closed- Freiberg (Sachsen) Sou,DE,BranchTypeDowntown,Corporate,Agency
 8448,closed- United Germany Voerde,DE,BranchTypeOther,Franchise,NotAgency
+8451,closed- Weinheim,DE,BranchTypeDowntown,Corporate,Agency
+8455,closed- Sangerhausen ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+8463,closed- Roth,DE,BranchTypeDowntown,Corporate,Agency
+8470,CLOSED- Remscheid,DE,BranchTypeDowntown,Corporate,Agency
+8473,closed- Schwabisch Gmund,DE,BranchTypeDowntown,Corporate,Agency
+8474,Closed- Ravensburg,DE,BranchTypeDowntown,Corporate,Agency
 8477,closed- United Germany Homburg,DE,BranchTypeOther,Franchise,NotAgency
 8484,closed- United Germ.Kemnitzerh,DE,BranchTypeOther,Franchise,NotAgency
+8492,Lüdenscheid/MB-Implant,DE,BranchTypeDowntown,Corporate,Agency
+8551,closed- Sailauf/Magna-Implant,DE,BranchTypeImplant,Corporate,Agency
 8578,Pool Kleppe,DE,BranchTypeAggregation,Franchise,NotAgency
 8579,Pool Arendal,DE,BranchTypeAggregation,Franchise,NotAgency
 8613,closed- United Germany Hueven,DE,BranchTypeOther,Franchise,NotAgency
+8659,closed- Minden,DE,BranchTypeDowntown,Corporate,Agency
+8667,closed- Rathenow ADAC SDI,DE,BranchTypeADACPartners,Corporate,Agency
+8670,Closed- Montabaur,DE,BranchTypeDowntown,Corporate,Agency
+8673,Closed - Ludwigsfelde,DE,BranchTypeDowntown,Corporate,Agency
+8674,closed- Detmold,DE,BranchTypeDowntown,Corporate,Agency
 8677,closed- United Germ. Sevelten,DE,BranchTypeOther,Franchise,NotAgency
+8678,closed -Syke-Heiligenfelde,DE,BranchTypeDowntown,Corporate,Agency
+8679,closed- Dusseldorf Medienhafen,DE,BranchTypeDowntown,Corporate,Agency
+8680,closed- Frechen ,DE,BranchTypeDowntown,Corporate,Agency
 8694,closed- United Germ. Homburg,DE,BranchTypeOther,Franchise,NotAgency
+8698,closed- Herford,DE,BranchTypeDowntown,Corporate,Agency
+8709,Uelzen,DE,BranchTypeDowntown,Corporate,Agency
+8743,closed- Peine,DE,BranchTypeDowntown,Corporate,Agency
 8744,closed- United Germ. Wallersd,DE,BranchTypeOther,Franchise,NotAgency
 8750,closed- United Germ. Mühlheim,DE,BranchTypeOther,Franchise,NotAgency
 8755,closed- United Germ Vaihingen,DE,BranchTypeOther,Franchise,NotAgency
@@ -259,10 +1011,261 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 8816,closed- United Germany Speyer,DE,BranchTypeOther,Franchise,NotAgency
 8817,closed- United Germany Coburg,DE,BranchTypeOther,Franchise,NotAgency
 8833,closed- United Germ. Isernh,DE,BranchTypeOther,Franchise,NotAgency
+8840,Cuxhaven,DE,BranchTypeDowntown,Corporate,Agency
+8842,closed- Parchim,DE,BranchTypeDowntown,Corporate,Agency
+8848,closed- Brandenburg,DE,BranchTypeDowntown,Corporate,Agency
+8864,closed- Wunstorf,DE,BranchTypeDowntown,Corporate,Agency
 8874,closed- United Germ. Barleben,DE,BranchTypeOther,Franchise,NotAgency
+8888,closed- Donauwoerth,DE,BranchTypeDowntown,Corporate,Agency
+8889,closed- Donauwoerth Self-Servi,DE,BranchTypeImplant,Corporate,Agency
 8906,closed- United Germ. Wuppertal,DE,BranchTypeOther,Franchise,NotAgency
 8907,closed- United Germ.Spaiching,DE,BranchTypeOther,Franchise,NotAgency
+8931,closed- Ludwigsfelde,DE,BranchTypeDowntown,Corporate,Agency
+8932,closed- Oranienburg,DE,BranchTypeDowntown,Corporate,Agency
+8942,closed- Wetzlar (until Dec 31),DE,BranchTypeDowntown,Corporate,Agency
+8945,closed- Neustadt a.d. Weinstr,DE,BranchTypeDowntown,Corporate,Agency
+8961,Remscheid,DE,BranchTypeDowntown,Corporate,Agency
+8962,closed- Solingen Mercedes-NL,DE,BranchTypeImplant,Corporate,Agency
+8966,Closed- Bernau,DE,BranchTypeDowntown,Corporate,Agency
+9235,closed- Friedrichshafen (unt.,DE,BranchTypeDowntown,Corporate,Agency
+9236,closed- Immenstaad/EADS Self,DE,BranchTypeImplant,Corporate,Agency
+9237,Sindelfingen,DE,BranchTypeDowntown,Corporate,Agency
+9238,closed- Reutlingen,DE,BranchTypeDowntown,Corporate,Agency
+9239,Ludwigsburg Train Station,DE,BranchTypeTrainStation,Corporate,Agency
+9285,Halle (Saale),DE,BranchTypeDowntown,Corporate,Agency
+40018,closed- Dusseldorf South/Benra,DE,BranchTypeDowntown,Corporate,Agency
+40041,closed- Salzwedel,DE,BranchTypeDowntown,Corporate,Agency
+40042,Merseburg/Leuna,DE,BranchTypeDowntown,Corporate,Agency
+40047,closed- Magdeburg SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+40082,Rosenheim,DE,BranchTypeDowntown,Corporate,Agency
+40090,Pirna/TÜV,DE,BranchTypeDowntown,Corporate,Agency
+40113,closed- Plauen Centre,DE,BranchTypeDowntown,Corporate,Agency
+40214,closed- Oranienburg,DE,BranchTypeDowntown,Corporate,Agency
+40224,closed- Fürstenwalde/Spree,DE,BranchTypeDowntown,Corporate,Agency
+40229,closed- Burghausen,DE,BranchTypeDowntown,Corporate,Agency
+40230,closed- Plauen/ADAC SDI ,DE,BranchTypeADACPartners,Corporate,Agency
+40322,closed - Montabaur,DE,BranchTypeDowntown,Corporate,Agency
+40341,Pockau/Zweiradhaus Hunger,DE,BranchTypeDowntown,Corporate,Agency
+40382,closed- Höxter,DE,BranchTypeDowntown,Corporate,Agency
+40387,closed- Zeithain/Riesa,DE,BranchTypeDowntown,Corporate,Agency
+40390,Geislingen ,DE,BranchTypeDowntown,Corporate,Agency
+40400,Göppingen,DE,BranchTypeDowntown,Corporate,Agency
+40424,closed- Strausberg,DE,BranchTypeDowntown,Corporate,Agency
+40494,closed- Freudenstadt,DE,BranchTypeDowntown,Corporate,Agency
+40511,closed- Flensburg,DE,BranchTypeDowntown,Corporate,Agency
+40557,Solingen,DE,BranchTypeDowntown,Corporate,Agency
+40643,Vermittler Rendsburg,DE,BranchTypeADACPartners,Corporate,Agency
+40644,Vermittler Flensburg,DE,BranchTypeADACPartners,Corporate,Agency
+40654,closed- Hof,DE,BranchTypeDowntown,Corporate,Agency
+40688,closed- Vermittler Schleswig,DE,BranchTypeADACPartners,Corporate,Agency
+40696,closed- Vermittler Neumünster,DE,BranchTypeADACPartners,Corporate,Agency
+40748,Ingolstadt Manching Airport,DE,BranchTypeAirport,Corporate,Agency
+40820,closed- Memmingen (bis 30.6.),DE,BranchTypeDowntown,Corporate,Agency
+40855,closed- Munich/Sheraton,DE,BranchTypeDowntown,Corporate,Agency
+40895,closed- Memmingen Airport,DE,BranchTypeAirport,Corporate,Agency
+40929,closed- Kaltenkirchen,DE,BranchTypeDowntown,Corporate,Agency
+40973,Oelde/GEA Self-Service(bis29/2,DE,BranchTypeImplant,Corporate,Agency
+40986,closed- Lippstadt/Hella,DE,BranchTypeImplant,Corporate,Agency
+40990,closed- Bielefeld West,DE,BranchTypeDowntown,Corporate,Agency
+41002,Rosenheim Train Station,DE,BranchTypeTrainStation,Corporate,Agency
+41003,Rosenheim,DE,BranchTypeDowntown,Corporate,Agency
+41056,closed- Geislingen an der,DE,BranchTypeDowntown,Corporate,Agency
+41057,Goeppingen,DE,BranchTypeDowntown,Corporate,Agency
+41090,closed- Lahr Airport,DE,BranchTypeAirport,Corporate,Agency
+41135,closed- Husum (until March 31),DE,BranchTypeDowntown,Corporate,Agency
+41136,closed- Oldenburg in Holstein,DE,BranchTypeDowntown,Corporate,Agency
+41160,closed- Hof-Plauen Airport,DE,BranchTypeAirport,Corporate,Agency
+41223,closed- Sangerhausen,DE,BranchTypeDowntown,Corporate,Agency
+41274,closed- Hamburg Harburg,DE,BranchTypeDowntown,Corporate,Agency
+41277,Dachau,DE,BranchTypeDowntown,Corporate,Agency
+41285,closed- Korbach,DE,BranchTypeDowntown,Corporate,Agency
+41286,Brilon,DE,BranchTypeDowntown,Corporate,Agency
+41412,closed- St. Wendel/Globus,DE,BranchTypeImplant,Corporate,Agency
+41417,closed- Hamburg Harburg Train,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+41488,closed- Brunsbüttel,DE,BranchTypeDowntown,Corporate,Agency
+41491,Freising near Munich,DE,BranchTypeDowntown,Corporate,Agency
+41512,closed- Freiberg (Saxony),DE,BranchTypeDowntown,Corporate,Agency
+42146,closed- Neustrelitz Train Stat,DE,BranchTypeTrainStation,Corporate,Agency
+42155,closed- Rechlin (Müritz) ,DE,BranchTypeDowntown,Corporate,Agency
+42163,closed- Eberswalde Centre,DE,BranchTypeDowntown,Corporate,Agency
+42211,closed- Vechta,DE,BranchTypeDowntown,Corporate,Agency
+42322,closed- Tuebingen,DE,BranchTypeDowntown,Corporate,Agency
+42323,closed- Bielefeld Airport,DE,BranchTypeAirport,Corporate,Agency
+42325,closed- Rheine,DE,BranchTypeDowntown,Corporate,Agency
+42368,closed- Burghaslach/SDI Autoa,DE,BranchTypeADACPartners,Corporate,Agency
+42369,closed- Donauwörth/SDI Waschke,DE,BranchTypeADACPartners,Corporate,Agency
+42370,closed- Erlangen/SDI Kohl,DE,BranchTypeADACPartners,Corporate,Agency
+42371,closed- Höchstadt/SDI J.Bauer,DE,BranchTypeADACPartners,Corporate,Agency
+42372,closed- Murrhardt/SDI Renz,DE,BranchTypeADACPartners,Corporate,Agency
+42373,closed- Neunkirchen/SDI Hössl,DE,BranchTypeADACPartners,Corporate,Agency
+42374,closed- Nördlingen/SDI Meilbec,DE,BranchTypeADACPartners,Corporate,Agency
+42375,closed- Rosenheim/SDI ASD Nuss,DE,BranchTypeADACPartners,Corporate,Agency
+42376,closed- Erlangen/SDI Barth Abs,DE,BranchTypeADACPartners,Corporate,Agency
+42386,closed- Amelinghausen/SDI Part,DE,BranchTypeADACPartners,Corporate,Agency
+42387,closed- Aurich/SDI Partner Ost,DE,BranchTypeADACPartners,Corporate,Agency
+42388,closed- Bad Driburg/SDI Hilleb,DE,BranchTypeADACPartners,Corporate,Agency
+42389,closed- Bad Oeynhausen/SDI Bri,DE,BranchTypeADACPartners,Corporate,Agency
+42391,closed- Bremen/SDI Partner ABG,DE,BranchTypeADACPartners,Corporate,Agency
+42393,closed- Bremervörde/SDI Micha,DE,BranchTypeADACPartners,Corporate,Agency
+42394,Coesfeld/SDI Partner Beresa,DE,BranchTypeADACPartners,Corporate,Agency
+42395,closed- Dinslaken/SDI ASD,DE,BranchTypeADACPartners,Corporate,Agency
+42396,closed- Dortmund/SDI Sarfaklar,DE,BranchTypeADACPartners,Corporate,Agency
+42397,closed- Düsseldorf/SDI Winkler,DE,BranchTypeADACPartners,Corporate,Agency
+42398,closed- Ebstorf/SDI Werner Cor,DE,BranchTypeADACPartners,Corporate,Agency
+42399,closed- Erkrath/SDI Winkler Fr,DE,BranchTypeADACPartners,Corporate,Agency
+42400,closed- Gütersloh/SDI Abschlep,DE,BranchTypeADACPartners,Corporate,Agency
+42403,closed- Hannover/SDI Weidner,DE,BranchTypeADACPartners,Corporate,Agency
+42404,closed- Helmstedt/SDI AH Reima,DE,BranchTypeADACPartners,Corporate,Agency
+42405,Hemer/SDI Partner AH Rosier,DE,BranchTypeADACPartners,Corporate,Agency
+42406,closed- Jever/SDI Partner Magn,DE,BranchTypeADACPartners,Corporate,Agency
+42407,closed- Lehrte/SDI Partner Kan,DE,BranchTypeADACPartners,Corporate,Agency
+42408,closed- Lengerich/SDI Partner,DE,BranchTypeADACPartners,Corporate,Agency
+42409,closed- Lingen/SDI Partner AH,DE,BranchTypeADACPartners,Corporate,Agency
+42410,closed- Norderstedt/SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+42411,closed- Pinneberg/SDI Auto Run,DE,BranchTypeADACPartners,Corporate,Agency
+42412,closed- Recklinghausen/SDI Mat,DE,BranchTypeADACPartners,Corporate,Agency
+42413,closed- Unna/SDI Partner Widli,DE,BranchTypeADACPartners,Corporate,Agency
+42414,Warendorf/SDI Partner Beresa,DE,BranchTypeADACPartners,Corporate,Agency
+42415,Wesel/SDI Partner Lackermann,DE,BranchTypeADACPartners,Corporate,Agency
+42416,closed- Wieren/SDI Partner Str,DE,BranchTypeADACPartners,Corporate,Agency
+42432,closed- Buchholz in der Nordh,DE,BranchTypeDowntown,Corporate,Agency
+42440,closed- Beckum ,DE,BranchTypeDowntown,Corporate,Agency
+42441,Unna,DE,BranchTypeDowntown,Corporate,Agency
+42464,Bremerhaven ,DE,BranchTypeDowntown,Corporate,Agency
+42465,closed- Bremerhaven Cruise Cen,DE,BranchTypeDowntown,Corporate,Agency
+42466,closed- Bremerhaven Station,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+42467,closed- Cuxhaven/Nordholz Airp,DE,BranchTypeAirport,Corporate,Agency
+42520,closed- Oelde/GEA Self-Service,DE,BranchTypeImplant,Corporate,Agency
+42544,closed- Berlin/SDI Naujock Aut,DE,BranchTypeADACPartners,Corporate,Agency
+42545,closed- Neustadt-Glewe/SDI AH,DE,BranchTypeADACPartners,Corporate,Agency
+42546,closed- Parchim/SDI AH Renner,DE,BranchTypeADACPartners,Corporate,Agency
+42547,closed- Rostock/SDI Auto Schrö,DE,BranchTypeADACPartners,Corporate,Agency
+42548,Frohburg/SDI Haferkorn GmbH,DE,BranchTypeADACPartners,Corporate,Agency
+42549,closed- Delitzsch/SDI Waldschl,DE,BranchTypeADACPartners,Corporate,Agency
+42550,closed- Dägelin/SDI G. Müller,DE,BranchTypeADACPartners,Corporate,Agency
+42551,closed- Grimmen/SDI Gerds GmbH,DE,BranchTypeADACPartners,Corporate,Agency
+42552,closed- Groß Miltzow/SDI Neuma,DE,BranchTypeADACPartners,Corporate,Agency
+42554,closed- Eisenach SDI Schaarsch,DE,BranchTypeADACPartners,Corporate,Agency
+42555,closed- Pritzwalk/SDI Prignitz,DE,BranchTypeADACPartners,Corporate,Agency
+42556,closed- Kaulsdorf/SDI Kuntke,DE,BranchTypeADACPartners,Corporate,Agency
+42572,closed_ Metzingen Outletcity,DE,BranchTypeDowntown,Corporate,Agency
+42593,Landshut,DE,BranchTypeDowntown,Corporate,Agency
+42594,Grevenbroich,DE,BranchTypeDowntown,Corporate,Agency
+42595,closed- Vermittler Rendsburg,DE,BranchTypeADACPartners,Corporate,Agency
+42611,closed- Beckum/ADAC SDI Zumbül,DE,BranchTypeADACPartners,Corporate,Agency
+42658,closed- Starzach/Schloss Weite,DE,BranchTypeDowntown,Corporate,Agency
+42659,closed- Baiersbronn/Hotel Bare,DE,BranchTypeDowntown,Corporate,Agency
+42660,closed- Baden-Baden Main Stati,DE,BranchTypeTrainStation,Corporate,Agency
+42672,closed- Gelsenkirchen Main St,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+42698,Bergen/Rügen (Germany) Station,DE,BranchTypeTrainStation,Corporate,Agency
+42825,closed- Lippstadt,DE,BranchTypeDowntown,Corporate,Agency
+42826,closed- Wesel Central Train St,DE,BranchTypeBahnAndMietwagenServicestation,Corporate,Agency
+42835,closed_ Sigmaringen,DE,BranchTypeDowntown,Corporate,Agency
+42836,closed- Albstadt,DE,BranchTypeDowntown,Corporate,Agency
+42837,closed- Sonthofen,DE,BranchTypeDowntown,Corporate,Agency
+42877,Ludwigsfelde,DE,BranchTypeDowntown,Corporate,Agency
+42886,closed- Lippstadt/Hella,DE,BranchTypeDowntown,Corporate,Agency
+42887,Friedrichshafen,DE,BranchTypeDowntown,Corporate,Agency
+42888,closed- Immenstaad/AIRBUS Self,DE,BranchTypeImplant,Corporate,Agency
+42913,closed- Lindau (Bodensee),DE,BranchTypeDowntown,Corporate,Agency
+42922,closed- Herford,DE,BranchTypeDowntown,Corporate,Agency
+42943,Erding,DE,BranchTypeDowntown,Corporate,Agency
+42982,Eisenach,DE,BranchTypeDowntown,Corporate,Agency
+42983,Gotha,DE,BranchTypeDowntown,Corporate,Agency
+43090,Unterlüß/Rheinmetall,DE,BranchTypeImplant,Corporate,Agency
+43102,closed- Bamberg Pilot Fastlane,DE,BranchTypeImplant,Corporate,Agency
+43103,closed- Würzburg PilotFastlane,DE,BranchTypeImplant,Corporate,Agency
+43354,Bornheim near Bonn,DE,BranchTypeDowntown,Corporate,Agency
+43385,closed- Norden Norddeich,DE,BranchTypeDowntown,Corporate,Agency
+43454,Plattling near Deggendorf,DE,BranchTypeDowntown,Corporate,Agency
+43542,closed- Plauen (until Oct 31st,DE,BranchTypeDowntown,Corporate,Agency
+43564,Memmingen Downtown,DE,BranchTypeDowntown,Corporate,Agency
+43591,Memmingen Airport,DE,BranchTypeAirport,Corporate,Agency
+43623,Offenburg,DE,BranchTypeDowntown,Corporate,Agency
+43624,Kempten (Allgäu),DE,BranchTypeDowntown,Corporate,Agency
+43706,closed- Uentrop/CLAAS,DE,BranchTypeDowntown,Corporate,Agency
+43851,closed-Bad Saulgau/Claas,DE,BranchTypeImplant,Corporate,Agency
+43852,Rendsburg-Buedelsdorf,DE,BranchTypeDowntown,Corporate,Agency
+43859,closed- Regensburg/Osram Fastl,DE,BranchTypeImplant,Corporate,Agency
+44097,Lahr near Airport,DE,BranchTypeDowntown,Corporate,Agency
+44098,closed- Lahr Airport,DE,BranchTypeAirport,Corporate,Agency
+44100,closed- Oldenburg Muhlack SDI,DE,BranchTypeADACPartners,Corporate,Agency
+44115,Lippstadt,DE,BranchTypeDowntown,Corporate,Agency
+44116,closed- Lippstadt/Hella,DE,BranchTypeDowntown,Corporate,Agency
+44152,closed- Marktheidenfeld,DE,BranchTypeDowntown,Corporate,Agency
+44192,closed- Plauen/ADAC SDI Partne,DE,BranchTypeADACPartners,Corporate,Agency
+44354,Ueberlingen,DE,BranchTypeDowntown,Corporate,Agency
+44383,Karlsruhe Rüppurr,DE,BranchTypeDowntown,Corporate,Agency
+44384,closed- Haiger ,DE,BranchTypeDowntown,Corporate,Agency
+44397,closed- Biberach ,DE,BranchTypeDowntown,Corporate,Agency
+44415,Landsberg/Lech,DE,BranchTypeDowntown,Corporate,Agency
+44465,closed- Bad Saulgau/CLAAS,DE,BranchTypeImplant,Corporate,Agency
+44479,Kuenzelsau ,DE,BranchTypeDowntown,Corporate,Agency
+44556,closed- Speyer,DE,BranchTypeDowntown,Corporate,Agency
+44674,Sailauf/Magna,DE,BranchTypeImplant,Corporate,Agency
+44687,closed- Salzwedel/SDI AH Lemme,DE,BranchTypeADACPartners,Corporate,Agency
+44733,Limburg Offheim,DE,BranchTypeDowntown,Corporate,Agency
+44736,Wetzlar,DE,BranchTypeDowntown,Corporate,Agency
+44833,closed- Bernau near Berlin,DE,BranchTypeDowntown,Corporate,Agency
+44989,closed- Munich Neuperlach/Siem,DE,BranchTypeDowntown,Corporate,Agency
+45036,closed- Rheine/MB Beresa Impla,DE,BranchTypeImplant,Corporate,Agency
+45057,Schwabach,DE,BranchTypeDowntown,Corporate,Agency
+45101,closed- Bonn Centre/Hilton,DE,BranchTypeDowntown,Corporate,Agency
+45111,Beckum,DE,BranchTypeDowntown,Corporate,Agency
+45204,closed- Herford,DE,BranchTypeDowntown,Corporate,Agency
+45214,closed- Oelde/GEA,DE,BranchTypeImplant,Corporate,Agency
+45272,closed- Strausberg/SDI,DE,BranchTypeADACPartners,Corporate,Agency
+45367,Ravensburg/Weingarten,DE,BranchTypeDowntown,Corporate,Agency
+45368,Bad Saulgau/CLAAS,DE,BranchTypeImplant,Corporate,Agency
+45369,Biberach,DE,BranchTypeDowntown,Corporate,Agency
+45476,closed- Bonn Center/Hilton/Ap,DE,BranchTypeDowntown,Corporate,Agency
+45597,closed- Waren (Müritz),DE,BranchTypeDowntown,Corporate,Agency
+45738,closed- Potsdam opposite Stat,DE,BranchTypeDowntown,Corporate,Agency
+45762,closed- Düren Unfallersatz Her,DE,BranchTypeADACPartners,Corporate,Agency
+45766,Landau in der Pfalz,DE,BranchTypeDowntown,Corporate,Agency
+45789,closed- Taufkirchen/Airbus/App,DE,BranchTypeImplant,Corporate,Agency
+45799,Husum,DE,BranchTypeDowntown,Corporate,Agency
+45852,Donauwörth near Train Station,DE,BranchTypeDowntown,Corporate,Agency
+45891,Augsburg,DE,BranchTypeDowntown,Corporate,Agency
+45892,Garmisch-Partenkirchen,DE,BranchTypeDowntown,Corporate,Agency
+46044,closed- Dachau,DE,BranchTypeDowntown,Corporate,Agency
+46123,closed- Rheine,DE,BranchTypeDowntown,Corporate,Agency
+46124,closed- Reichenbach/SDI Partn,DE,BranchTypeADACPartners,Corporate,Agency
+46129,Neumünster,DE,BranchTypeDowntown,Corporate,Agency
+46130,Itzehoe,DE,BranchTypeDowntown,Corporate,Agency
+46131,Heide,DE,BranchTypeDowntown,Corporate,Agency
+46165,closed- Aschaffenburg Central,DE,BranchTypeTrainStation,Corporate,Agency
+46170,closed- Fulda Train Station,DE,BranchTypeTrainStation,Corporate,Agency
+46287,Garmisch (US Military),DE,BranchTypeAAFES,Corporate,Agency
+46292,Ansbach (US Military),DE,BranchTypeAAFES,Corporate,Agency
+46552,Bansin/Usedom Island,DE,BranchTypeDowntown,Corporate,Agency
+46553,Greifswald,DE,BranchTypeDowntown,Corporate,Agency
+46554,Euskirchen,DE,BranchTypeDowntown,Corporate,Agency
+46636,Neustadt a.d. Weinstraße,DE,BranchTypeDowntown,Corporate,Agency
+46724,Augsburg Airport,DE,BranchTypeAirport,Corporate,Agency
+47054,Paderborn Airport,DE,BranchTypeAirport,Corporate,Agency
+47098,Weiden,DE,BranchTypeDowntown,Corporate,Agency
+47397,Tuebingen,DE,BranchTypeDowntown,Corporate,Agency
+47587,Lindau,DE,BranchTypeDowntown,Corporate,Agency
+47803,Amberg/Siemens,DE,BranchTypeImplant,Corporate,Agency
+47821,Esslingen/Eberspächer KEYBOX,DE,BranchTypeImplant,Corporate,Agency
+47822,Herxheim/Eberspächer KEYBOX,DE,BranchTypeImplant,Corporate,Agency
+47842,Heidenheim,DE,BranchTypeDowntown,Corporate,Agency
+47873,Heringsdorf Airport,DE,BranchTypeAirport,Corporate,Agency
+48105,Wesel,DE,BranchTypeDowntown,Corporate,Agency
+48144,Reutlingen,DE,BranchTypeDowntown,Corporate,Agency
+48184,Soest,DE,BranchTypeDowntown,Corporate,Agency
+48255,Hof,DE,BranchTypeDowntown,Corporate,Agency
+48256,Bayreuth,DE,BranchTypeDowntown,Corporate,Agency
+48328,Stuttgart Patch (US Military),DE,BranchTypeAAFES,Corporate,Agency
+48402,Friedrichshafen/ZF only,DE,BranchTypeImplant,Corporate,Agency
+48405,Hamelin,DE,BranchTypeDowntown,Corporate,Agency
+48418,Schweinfurt Aftermarket/ZFonly,DE,BranchTypeImplant,Corporate,Agency
 48419,Passau/ZF only,DE,BranchTypeImplant,Franchise,NotAgency
+48420,Schweinfurt Werk Süd/ZF only,DE,BranchTypeImplant,Corporate,Agency
+48424,Rastatt,DE,BranchTypeDowntown,Corporate,Agency
+48426,Schweinfurt Werk Nord/ZF only,DE,BranchTypeImplant,Corporate,Agency
+48720,Bocholt (from Oct 1),DE,BranchTypeDowntown,Corporate,Agency
 767,CICAR ZKST,ES,BranchTypeOther,Franchise,NotAgency
 768,closed-Spain Zentralkostenstel,ES,BranchTypeOther,Franchise,NotAgency
 776,Spain Sol-Mar ZKST,ES,BranchTypeOther,Franchise,NotAgency
@@ -593,6 +1596,7 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 8386,closed- Vigo Airport (Sol-Mar),ES,BranchTypeAirport,Franchise,NotAgency
 8388,closed- Asturias AP (Sol-Mar),ES,BranchTypeAirport,Franchise,NotAgency
 8389,closed- Gerone Aéroport,ES,BranchTypeAirport,Franchise,NotAgency
+8435,closed- Madrid Barajas(Hilton),ES,BranchTypeDowntown,Corporate,Agency
 8501,Pool Gran Canaria Cicar AR,ES,BranchTypeAggregation,Franchise,NotAgency
 8502,Pool Tenerifa Cicar AR,ES,BranchTypeAggregation,Franchise,NotAgency
 8503,Pool Fuerteventura Cicar AR,ES,BranchTypeAggregation,Franchise,NotAgency
@@ -656,14 +1660,26 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 42959,Fuerteventura Airport,ES,BranchTypeAirport,Franchise,NotAgency
 42960,La Palma Airport (Canaries),ES,BranchTypeAirport,Franchise,NotAgency
 44537,La Palma Port (Canaries),ES,BranchTypeDowntown,Franchise,NotAgency
+123,closed Annecy,FR,BranchTypeDowntown,Corporate,Agency
 178,closed- Pau Aeroport (Pyrenees,FR,BranchTypeAirport,Franchise,NotAgency
 476,closed- Evry,FR,BranchTypeDowntown,Franchise,NotAgency
+508,closed Reims,FR,BranchTypeDowntown,Corporate,Agency
+509,closed Cherbourg,FR,BranchTypeDowntown,Corporate,Agency
 518,closed Biaritz Bayonne Aeropor,FR,BranchTypeAirport,Franchise,NotAgency
+519,closed Lyon Est,FR,BranchTypeDowntown,Corporate,Agency
+521,closed Perigueux,FR,BranchTypeDowntown,Corporate,Agency
+529,closed Besancon,FR,BranchTypeDowntown,Corporate,Agency
+531,Fagnières closed,FR,BranchTypeDowntown,Corporate,Agency
+534,closed Versailles/Viroflay,FR,BranchTypeDowntown,Corporate,Agency
+536,closed St. Maxime,FR,BranchTypeDowntown,Corporate,Agency
+537,closed Saint Tropez,FR,BranchTypeDowntown,Corporate,Agency
+539,closed Perigueux Aeroport,FR,BranchTypeAirport,Corporate,Agency
 541,Saint Brieuc closed,FR,BranchTypeDowntown,Franchise,NotAgency
 542,Saint-Etiénne closed,FR,BranchTypeDowntown,Franchise,NotAgency
 543,closed- Lyon-Gerland,FR,BranchTypeDowntown,Franchise,NotAgency
 544,closed -Toulouse Gare Centre V,FR,BranchTypeTrainStation,Franchise,NotAgency
 545,closed- Verdun,FR,BranchTypeDowntown,Franchise,NotAgency
+549,closed Perpignan Aeroport,FR,BranchTypeAirport,Corporate,Agency
 563,closed Ajaccio STE Nouvelle Ca,FR,BranchTypeAirport,Franchise,NotAgency
 564,closed- Argenteuil,FR,BranchTypeDowntown,Franchise,NotAgency
 565,closed- Bezons,FR,BranchTypeDowntown,Franchise,NotAgency
@@ -690,12 +1706,16 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 589,"closed Montelimar, ETS H. Jean",FR,BranchTypeDowntown,Franchise,NotAgency
 590,closed Paris 18eme,FR,BranchTypeDowntown,Franchise,NotAgency
 591,closed -Pau STE Auto Location,FR,BranchTypeDowntown,Franchise,NotAgency
+592,closed Perpignan,FR,BranchTypeDowntown,Corporate,Agency
 593,closed- Rennes,FR,BranchTypeDowntown,Franchise,NotAgency
 594,closed- Rennes,FR,BranchTypeDowntown,Franchise,NotAgency
 595,closed- Angers,FR,BranchTypeDowntown,Franchise,NotAgency
 596,Le Mans closed,FR,BranchTypeDowntown,Franchise,NotAgency
 597,closed- Nantes,FR,BranchTypeDowntown,Franchise,NotAgency
 598,"closed Roanne, Matero",FR,BranchTypeDowntown,Franchise,NotAgency
+802,closed Beziers,FR,BranchTypeDowntown,Corporate,Agency
+830,closed- Epernay closed,FR,BranchTypeDowntown,Corporate,Agency
+1092,closed- Sixt Pakistan Fazal,FR,BranchTypeImplant,Corporate,Agency
 1232,closed- Paris Porte de St Clou,FR,BranchTypeDowntown,Franchise,NotAgency
 1233,closed- Versailles (until Mar,FR,BranchTypeDowntown,Franchise,NotAgency
 1234,closed- Meudon-Velizy,FR,BranchTypeDowntown,Franchise,NotAgency
@@ -703,7 +1723,9 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 1236,Vélizy/BMW (until 31.07.),FR,BranchTypeDowntown,Franchise,NotAgency
 1372,Corsica Figari Airport,FR,BranchTypeAirport,Franchise,NotAgency
 1373,Corsica Calvi Airport,FR,BranchTypeAirport,Franchise,NotAgency
+1587,closed-Paris 13 Place Italie/B,FR,BranchTypeDowntown,Corporate,Agency
 1781,Prades,FR,BranchTypeDowntown,Franchise,NotAgency
+1808,closed- Melun Dammarie les Lys,FR,BranchTypeDowntown,Corporate,Agency
 1860,closed- Montelimar/Htl du Parc,FR,BranchTypeDowntown,Franchise,NotAgency
 1867,closed- Bourges,FR,BranchTypeDowntown,Franchise,NotAgency
 1875,Vierzon (Meet&Greet),FR,BranchTypeDowntown,Franchise,NotAgency
@@ -721,15 +1743,24 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 2590,Orléans,FR,BranchTypeDowntown,Franchise,NotAgency
 2827,Saint-Malo (Meet&Greet),FR,BranchTypeDowntown,Franchise,NotAgency
 2848,closed- Versailles,FR,BranchTypeDowntown,Franchise,NotAgency
+3149,closed Dijon DT,FR,BranchTypeDowntown,Corporate,Agency
+3213,Les Pavillons-sous-Bois Bondy,FR,BranchTypeDowntown,Corporate,Agency
 3281,Nimes-Garons AP (till 31/10),FR,BranchTypeAirport,Franchise,NotAgency
 3282,Nimes TrainSt.SNCF(till 31/10),FR,BranchTypeTrainStation,Franchise,NotAgency
+3412,closed Sainte Maxime,FR,BranchTypeDowntown,Corporate,Agency
+3415,closed Flers,FR,BranchTypeDowntown,Corporate,Agency
+3418,closed Chambery DT,FR,BranchTypeDowntown,Corporate,Agency
+3421,closed Saint Raphael,FR,BranchTypeDowntown,Corporate,Agency
 3483,closed- Saint Louis,FR,BranchTypeDowntown,Franchise,NotAgency
 3582,closed Aix en Provence,FR,BranchTypeDowntown,Franchise,NotAgency
+3812,closed St. Tropez Airport,FR,BranchTypeAirport,Corporate,Agency
 4281,Le Creusot Station TGV,FR,BranchTypeTrainStation,Franchise,NotAgency
+4287,Montereau Fontainebleau,FR,BranchTypeDowntown,Corporate,Agency
 4309,Perpignan - closed,FR,BranchTypeDowntown,Franchise,NotAgency
 4310,Perpignan Aeroport - closed,FR,BranchTypeAirport,Franchise,NotAgency
 4339,closed Cherbourg,FR,BranchTypeDowntown,Franchise,NotAgency
 4416,closed- Brive Airport,FR,BranchTypeAirport,Franchise,NotAgency
+4427,closed- Honfleur,FR,BranchTypeDowntown,Corporate,Agency
 4573,closed- Brive-la-Gaillarde,FR,BranchTypeDowntown,Franchise,NotAgency
 4611,closed Lille - Villeneuve d'As,FR,BranchTypeDowntown,Franchise,NotAgency
 4646,closed Lille-Roubaix,FR,BranchTypeDowntown,Franchise,NotAgency
@@ -880,6 +1911,7 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 8179,closed -La Rochelle Aéroport/I,FR,BranchTypeAirport,Franchise,NotAgency
 8257,closed- Haguenau,FR,BranchTypeDowntown,Franchise,NotAgency
 8283,closed -Cluses,FR,BranchTypeDowntown,Franchise,NotAgency
+8309,closed- Paris 18th Arrondiss.,FR,BranchTypeDowntown,Corporate,Agency
 8321,Closed- Laval,FR,BranchTypeDowntown,Franchise,NotAgency
 8322,closed -Evian,FR,BranchTypeDowntown,Franchise,NotAgency
 8338,Les Arcs Train Station (Meet&Greet),FR,BranchTypeDowntown,Franchise,NotAgency
@@ -890,6 +1922,7 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 8408,closed -Dieppe,FR,BranchTypeDowntown,Franchise,NotAgency
 8416,Toulon Train Station (Meet&Greet),FR,BranchTypeTrainStation,Franchise,NotAgency
 8443,closed- Montereau,FR,BranchTypeDowntown,Franchise,NotAgency
+8452,Creteil,FR,BranchTypeDowntown,Corporate,Agency
 8453,closed -Valence Centre Ville,FR,BranchTypeDowntown,Franchise,NotAgency
 8489,Closed -Valence Briffaut (M&G),FR,BranchTypeDowntown,Franchise,NotAgency
 8490,closed -Valence TGV (M&G),FR,BranchTypeTrainStation,Franchise,NotAgency
@@ -901,6 +1934,7 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 8705,closed- Valence Briffaut,FR,BranchTypeDowntown,Franchise,NotAgency
 8706,Valence TGV (till October),FR,BranchTypeTrainStation,Franchise,NotAgency
 8714,closed- Deauville AP (Meet & G,FR,BranchTypeAirport,Franchise,NotAgency
+8722,Closed -Livry Gargan,FR,BranchTypeDowntown,Corporate,Agency
 8728,Mulhouse Train Station (Meet&Greet),FR,BranchTypeDowntown,Franchise,NotAgency
 8748,closed- Poissy,FR,BranchTypeDowntown,Franchise,NotAgency
 8756,closed- Reims Centre,FR,BranchTypeDowntown,Franchise,NotAgency
@@ -908,6 +1942,7 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 8765,closed- Les Ulis/Villebon-sur,FR,BranchTypeDowntown,Franchise,NotAgency
 8766,closed- Evreux,FR,BranchTypeDowntown,Franchise,NotAgency
 8768,closed- Creteil,FR,BranchTypeDowntown,Franchise,NotAgency
+8775,closed- Paris Opera,FR,BranchTypeDowntown,Corporate,Agency
 8805,Saint-Raphaël Train Station (M&G),FR,BranchTypeTrainStation,Franchise,NotAgency
 8806,Reims Train Station,FR,BranchTypeTrainStation,Franchise,NotAgency
 8807,closed- Evreux Corner VW,FR,BranchTypeDowntown,Franchise,NotAgency
@@ -922,8 +1957,12 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 8909,closed- Brest Airport,FR,BranchTypeAirport,Franchise,NotAgency
 8940,Compiegne ,FR,BranchTypeDowntown,Franchise,NotAgency
 8955,Amiens Train Station,FR,BranchTypeTrainStation,Franchise,NotAgency
+8985,closed- Toulouse Shell Station,FR,BranchTypeDowntown,Corporate,Agency
 9230,closed- Saint-Viance,FR,BranchTypeDowntown,Franchise,NotAgency
 9231,closed- Terrasson-Lavilledieu,FR,BranchTypeDowntown,Franchise,NotAgency
+40019,closed- Paris Viry Chatillon/B,FR,BranchTypeDowntown,Corporate,Agency
+40095,closed- Trith-St-Leger/Valenci,FR,BranchTypeDowntown,Corporate,Agency
+40120,closed- Chalon-sur-Saone,FR,BranchTypeTrainStation,Corporate,Agency
 40127,closed- Poitiers Centre Ville,FR,BranchTypeDowntown,Franchise,NotAgency
 40128,closed- Poitiers Aéroport,FR,BranchTypeAirport,Franchise,NotAgency
 40129,Agen,FR,BranchTypeDowntown,Franchise,NotAgency
@@ -942,27 +1981,45 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 40712,closed- Rodez Airport,FR,BranchTypeAirport,Franchise,NotAgency
 40725,closed- Le Puy en Velay,FR,BranchTypeDowntown,Franchise,NotAgency
 40726,Le Puy-Loudes Airport,FR,BranchTypeAirport,Franchise,NotAgency
+40875,Ivry-sur-Seine/BP (till Oct 1),FR,BranchTypeDowntown,Corporate,Agency
 41185,Villefranche-sur-Saone/Limas,FR,BranchTypeDowntown,Franchise,NotAgency
 41519,closed- Agen-La Garenne Airpor,FR,BranchTypeAirport,Franchise,NotAgency
 41530,closed- Agen Train Station SNC,FR,BranchTypeTrainStation,Franchise,NotAgency
 42147,Villefranche-sur-Saone Station,FR,BranchTypeTrainStation,Franchise,NotAgency
 42367,closed- Rodez Train Station,FR,BranchTypeTrainStation,Franchise,NotAgency
+42474,closed- Valence Train Station,FR,BranchTypeTrainStation,Corporate,Agency
+42475,closed- Valence Briffaut,FR,BranchTypeDowntown,Corporate,Agency
+42476,closed- Montelimar/Hotel du Pa,FR,BranchTypeDowntown,Corporate,Agency
+43461,closed-Paris 13 Place d Italie,FR,BranchTypeDowntown,Corporate,Agency
 44091,Les Ulis/Villebon-sur-Yvette,FR,BranchTypeDowntown,Franchise,NotAgency
+44189,Valence Train Station Centre,FR,BranchTypeTrainStation,Corporate,Agency
+44190,closed- Valence Briffaut,FR,BranchTypeDowntown,Corporate,Agency
+44191,closed- Montelimar/Hotel du,FR,BranchTypeDowntown,Corporate,Agency
 44220,closed- Clermont-Ferrand Train,FR,BranchTypeTrainStation,Franchise,NotAgency
 44356,Service Center Bheekaree,FR,BranchTypeRepairCenter,Franchise,NotAgency
+44559,Troyes La Chapelle-Saint-Luc,FR,BranchTypeDowntown,Corporate,Agency
 44668,Dummy Kostenstelle S761,FR,BranchTypeOther,Franchise,NotAgency
 44684,Arpajon,FR,BranchTypeDowntown,Franchise,NotAgency
 44699,Mantes-la-Jolie,FR,BranchTypeDowntown,Franchise,NotAgency
 44740,Corsica Figari Airport,FR,BranchTypeAirport,Franchise,NotAgency
+45739,Troyes Train Station,FR,BranchTypeTrainStation,Corporate,Agency
 47836,Corsica Calvi Airport,FR,BranchTypeAirport,Franchise,NotAgency
+48407,Niort,FR,BranchTypeDowntown,Corporate,Agency
 174,closed- London East,GB,BranchTypeDowntown,Franchise,NotAgency
+653,closed- Glasgow City Hilton,GB,BranchTypeDowntown,Corporate,Agency
+929,closed- York,GB,BranchTypeDowntown,Corporate,Agency
+1224,closed- Bristol South,GB,BranchTypeDowntown,Corporate,Agency
+1382,closed- Croydon,GB,BranchTypeDowntown,Corporate,Agency
 1450,Sixt North Ireland,GB,BranchTypeAggregation,Franchise,NotAgency
 1459,North Ireland Downeys Cars,GB,BranchTypeOther,Franchise,NotAgency
+1833,closed- Bristol South,GB,BranchTypeDowntown,Corporate,Agency
+2060,closed- Cardiff Airport (M&Gr),GB,BranchTypeAirport,Corporate,Agency
 2387,North Ireland ZKST,GB,BranchTypeOther,Franchise,NotAgency
 2388,closed- North Ireland HMV,GB,BranchTypeOther,Franchise,NotAgency
 2391,Belfast Int. Airport,GB,BranchTypeAirport,Franchise,NotAgency
 2402,Newtownards,GB,BranchTypeDowntown,Franchise,NotAgency
 2410,Belfast City Airport,GB,BranchTypeAirport,Franchise,NotAgency
+2582,closed - Cardiff Central,GB,BranchTypeDowntown,Corporate,Agency
 3442,closed- Northampton,GB,BranchTypeDowntown,Franchise,NotAgency
 3512,closed- Sheffield,GB,BranchTypeDowntown,Franchise,NotAgency
 3564,closed- Leicester,GB,BranchTypeDowntown,Franchise,NotAgency
@@ -1520,10 +2577,128 @@ Branch,Name,Country,BranchType,IsCorporate,IsAgency
 43212,closed- Isernia/Aci Global (Wi,IT,BranchTypeDowntown,Franchise,NotAgency
 43213,closed- Rimini (Leasys),IT,BranchTypeDowntown,Franchise,NotAgency
 43214,Italy ZKST Win Rent,IT,BranchTypeOther,Franchise,NotAgency
+43430,closed- Bologna Airport,IT,BranchTypeAirport,Corporate,Agency
+43431,Bergamo Airport,IT,BranchTypeAirport,Corporate,Agency
+43432,Venice Airport (until 31/10),IT,BranchTypeAirport,Corporate,Agency
 43437,closed- Tropea/Parghelia(WinRe,IT,BranchTypeDowntown,Franchise,NotAgency
 43453,closed- Cervia (Win Rent),IT,BranchTypeDowntown,Franchise,NotAgency
+43582,Naples Airport (until Nov 30),IT,BranchTypeAirport,Corporate,Agency
+43585,Sicily Catania AP (until 2/14),IT,BranchTypeAirport,Corporate,Agency
+43586,Sicily Palermo AP (till 15/3),IT,BranchTypeAirport,Corporate,Agency
+43590,Lamezia Terme Airport,IT,BranchTypeAirport,Corporate,Agency
 43688,closed- Sorrento (LEASYS WINRE,IT,BranchTypeDowntown,Franchise,NotAgency
+44149,Genoa Airport,IT,BranchTypeAirport,Corporate,Agency
+44564,Treviso Airport (until Jun 10),IT,BranchTypeAirport,Corporate,Agency
+44570,Naples Central Train Station,IT,BranchTypeTrainStation,Corporate,Agency
+44572,Bologna Central Train Station,IT,BranchTypeTrainStation,Corporate,Agency
+44574,Genoa Brignole Station,IT,BranchTypeTrainStation,Corporate,Agency
+44625,Milan Sesto-Monza,IT,BranchTypeDowntown,Corporate,Agency
+45106,Sicily Palermo AP(until 10/31),IT,BranchTypeAirport,Corporate,Agency
+45246,Sicily Sciacca/Verdura Resort,IT,BranchTypeDowntown,Corporate,Agency
+45414,Salerno Central Train Station,IT,BranchTypeTrainStation,Corporate,Agency
+45421,Parma,IT,BranchTypeDowntown,Corporate,Agency
+45424,Bologna Borgo Panigale,IT,BranchTypeDowntown,Corporate,Agency
+45788,Genova Stazione P.zza Principe,IT,BranchTypeTrainStation,Corporate,Agency
+46027,Verona Central St (until 3/31),IT,BranchTypeTrainStation,Corporate,Agency
+46045,Treviglio (until 2/28),IT,BranchTypeDowntown,Corporate,Agency
+46053,Rome/Waldorf (until 11/30),IT,BranchTypeDowntown,Corporate,Agency
+46054,Rome St. Peters Sq(till 11/30),IT,BranchTypeDowntown,Corporate,Agency
+46171,Venice Mestre St (until 31.3),IT,BranchTypeTrainStation,Corporate,Agency
+46201,Milan Segrate,IT,BranchTypeDowntown,Corporate,Agency
+46227,Treviso Airport (until 3/31),IT,BranchTypeAirport,Corporate,Agency
+46612,Naples Chiaia (until May 30),IT,BranchTypeDowntown,Corporate,Agency
+47061,Treviglio ,IT,BranchTypeDowntown,Corporate,Agency
+47063,Verona Central Station,IT,BranchTypeTrainStation,Corporate,Agency
+47064,Venice Mestre St (until 3/31),IT,BranchTypeTrainStation,Corporate,Agency
+47065,Treviso Airport (until 3/31),IT,BranchTypeAirport,Corporate,Agency
+48163,Reggio Calabria Airport,IT,BranchTypeAirport,Corporate,Agency
+954,closed Almere,NL,BranchTypeDowntown,Corporate,Agency
+1205,closed- Maastricht Aachen AP(3,NL,BranchTypeAirport,Corporate,Agency
+1206,Apeldoorn,NL,BranchTypeDowntown,Corporate,Agency
+1214,closed-Maastricht/Travel Inn,NL,BranchTypeImplant,Corporate,Agency
 3862,closed-Belgium Trainingscenter,NL,BranchTypeOther,Franchise,NotAgency
+6263,Almelo (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6264,closed- Almere Markerkant (Boe,NL,BranchTypeDowntown,Corporate,Agency
+6265,closed- Amersfoort (Boels Ser),NL,BranchTypeDowntown,Corporate,Agency
+6266,closed- Amsterdam West (Boels,NL,BranchTypeDowntown,Corporate,Agency
+6267,closed- Amsterdam Duivendrecht,NL,BranchTypeDowntown,Corporate,Agency
+6268,Apeldoorn North (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6269,Arnhem (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6270,Assen (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6271,Bergen op Zoom (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6272,Breda (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6273,Den Bosch (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6274,Deventer (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6275,Doetinchem (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6276,closed- Dordrecht (Boels SP),NL,BranchTypeDowntown,Corporate,Agency
+6277,Ede (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6278,closed- Eindhoven Tong.(Boels),NL,BranchTypeDowntown,Corporate,Agency
+6279,closed- Eindhoven De H.(Boels),NL,BranchTypeDowntown,Corporate,Agency
+6280,Emmen (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6281,Enschede (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6282,Geleen (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6283,Goes (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6284,Groningen (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6285,Grootebroek (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6286,Heerenveen (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6287,Heerhugowaard (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6288,Heerlen (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6289,Helmond (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6290,Hengelo (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6291,closed- Hilversum (Boels SP),NL,BranchTypeDowntown,Corporate,Agency
+6292,Hoensbroek (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6293,closed- Hoofddorp (Boels Servi,NL,BranchTypeDowntown,Corporate,Agency
+6294,Hoogeveen (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6295,Hoorn (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+6296,Leeuwarden (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6297,closed- Leiderdorp (Boels),NL,BranchTypeDowntown,Corporate,Agency
+6298,closed- Lelystad (Boels),NL,BranchTypeDowntown,Corporate,Agency
+6299,closed- Maastricht North (Boel,NL,BranchTypeDowntown,Corporate,Agency
+6300,Middelburg (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6301,closed- Nieuwegein (Boels),NL,BranchTypeDowntown,Corporate,Agency
+6302,closed- Nijmegen (Boels),NL,BranchTypeDowntown,Corporate,Agency
+6303,closed- Oosterhout (Boels Serv,NL,BranchTypeDowntown,Corporate,Agency
+6304,closed- Oss (Boels Servicepoin,NL,BranchTypeDowntown,Corporate,Agency
+6305,closed- Purmerend (Boels SP),NL,BranchTypeDowntown,Corporate,Agency
+6306,closed- Ridderkerk (Boels),NL,BranchTypeDowntown,Corporate,Agency
+6307,closed- Rijswijk (Boels SP),NL,BranchTypeDowntown,Corporate,Agency
+6308,closed- Roermond (Boels),NL,BranchTypeDowntown,Corporate,Agency
+6309,closed- Roosendaal (Boels Serv,NL,BranchTypeDowntown,Corporate,Agency
+6310,closed- Rotterdam Centrum (Bo,NL,BranchTypeDowntown,Corporate,Agency
+6311,closed- Rotterdam South(Boels),NL,BranchTypeDowntown,Corporate,Agency
+6312,closed- Sittard (Boels SP),NL,BranchTypeDowntown,Corporate,Agency
+6313,closed- Spijkenisse (Boels Ser,NL,BranchTypeDowntown,Corporate,Agency
+6314,closed- Terneuzen (Boels Servi,NL,BranchTypeDowntown,Corporate,Agency
+6315,closed- Tilburg (Boels Service,NL,BranchTypeDowntown,Corporate,Agency
+6316,closed- Utrecht Lage (Boels),NL,BranchTypeDowntown,Corporate,Agency
+6317,Venlo North (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6318,Venlo South (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6319,closed- Venray (Boels Servicep,NL,BranchTypeDowntown,Corporate,Agency
+6320,closed- Weert (Boels Servicepo,NL,BranchTypeDowntown,Corporate,Agency
+6321,closed- Zaandam (Boels SP),NL,BranchTypeDowntown,Corporate,Agency
+6322,closed- Zwolle (Boels Servicep,NL,BranchTypeDowntown,Corporate,Agency
+6426,Apeldoorn South (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+6427,closed- Veendam (Boels Service,NL,BranchTypeDowntown,Corporate,Agency
+6639,closed- Tilburg II (Boels Serv,NL,BranchTypeDowntown,Corporate,Agency
+6686,closed- Utrecht Overve.(Boels),NL,BranchTypeDowntown,Corporate,Agency
+6915,Drachten (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+8165,Hapert,NL,BranchTypeDowntown,Corporate,Agency
+8289,closed- Haarlem (Boels Service,NL,BranchTypeDowntown,Corporate,Agency
+8290,closed- Amstelveen (Boels SP),NL,BranchTypeDowntown,Corporate,Agency
+8291,Echt (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+8292,closed- Rotterdam North(Boels),NL,BranchTypeDowntown,Corporate,Agency
+8293,closed- Den Haag II (Boels Ser,NL,BranchTypeDowntown,Corporate,Agency
+8294,Alkmaar (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+8336,Emmeloord (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+8363,closed- Sneek (Boels Servicepo,NL,BranchTypeDowntown,Corporate,Agency
+8457,closed- Delft (Boels Service),NL,BranchTypeDowntown,Corporate,Agency
+8458,closed- Middelharnis (Boels Se,NL,BranchTypeDowntown,Corporate,Agency
+8459,closed- Tiel (Boels Servicepoi,NL,BranchTypeDowntown,Corporate,Agency
+8460,closed- Alphen a.d. Rijn (Boel,NL,BranchTypeDowntown,Corporate,Agency
+8461,closed- Oss West (Boels Servic,NL,BranchTypeDowntown,Corporate,Agency
+8462,closed- Veghel (Boels Servicep,NL,BranchTypeDowntown,Corporate,Agency
+8763,Elst (Boels Servicepoint),NL,BranchTypeDowntown,Corporate,Agency
+8764,closed- Nijkerk (Boels Service,NL,BranchTypeDowntown,Corporate,Agency
 1476,Sixt USA Alamo,US,BranchTypeAggregation,Franchise,NotAgency
 1477,Sixt USA National,US,BranchTypeAggregation,Franchise,NotAgency
 1641,closed- Tampa Airport,US,BranchTypeAirport,Franchise,NotAgency

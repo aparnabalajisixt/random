@@ -19,7 +19,7 @@ type Branch struct {
 	Name        string    `json:"name"`
 	BranchType  int       `json:"type"`
 	IsCorporate *bool     `json:"isCorporate,omitempty"`
-	IsAgency    *bool     `json:"isAgency,omitempty"`
+	Config      *Config   `json:"config,omitempty"`
 	Addresses   []Address `json:"addresses"`
 }
 
@@ -29,6 +29,10 @@ type Address struct {
 
 type Country struct {
 	Iso2Code string `json:"iso2Code"`
+}
+
+type Config struct {
+	IsAgencyBranch *bool `json:"isAgencyBranch,omitempty"`
 }
 
 type Result struct {
@@ -85,9 +89,10 @@ func main() {
 		if _, corporateCountry := corporate[countryCode]; !corporateCountry {
 			continue
 		}
+		var isCorporate, isAgency bool
 
-		isCorporate := b.IsCorporate != nil && *b.IsCorporate
-		isAgency := b.IsAgency != nil && *b.IsAgency
+		isCorporate = b.IsCorporate != nil && *b.IsCorporate
+		isAgency = b.Config != nil && b.Config.IsAgencyBranch != nil && *b.Config.IsAgencyBranch
 
 		branchType := branchProto.BranchType_name[int32(b.BranchType)]
 
