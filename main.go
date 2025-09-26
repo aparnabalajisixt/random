@@ -45,6 +45,27 @@ func main() {
 		panic(err)
 	}
 
+	// Read excluded countries from CSV
+	excluded := make(map[string]struct{})
+	excludedFile, err := os.Open("corporate.csv")
+	if err != nil {
+		panic(err)
+	}
+	defer excludedFile.Close()
+	reader := csv.NewReader(excludedFile)
+	records, err := reader.ReadAll()
+	if err != nil {
+		panic(err)
+	}
+	for i, rec := range records {
+		if i == 0 {
+			continue // skip header
+		}
+		if len(rec) >= 2 {
+			excluded[rec[1]] = struct{}{}
+		}
+	}
+
 	var results []Result
 	for _, b := range wrapper.Branches {
 		isCorporate := b.IsCorporate != nil && *b.IsCorporate
@@ -55,6 +76,10 @@ func main() {
 			countryCode := ""
 			if len(b.Addresses) > 0 {
 				countryCode = b.Addresses[0].Country.Iso2Code
+			}
+			// Exclude branches whose country is in the corporate list
+			if _, skip := excluded[countryCode]; skip {
+				continue
 			}
 			results = append(results, Result{BranchID: b.BranchID, Country: countryCode})
 		}
