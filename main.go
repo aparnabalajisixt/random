@@ -6,6 +6,8 @@ import (
 	"os"
 	"sort"
 	"strconv"
+
+	branchProto "github.com/sixt/com.sixt.service.branch-go-stubs/proto"
 )
 
 type BranchesWrapper struct {
@@ -15,6 +17,7 @@ type BranchesWrapper struct {
 type Branch struct {
 	BranchID    int       `json:"branchId"`
 	Name        string    `json:"name"`
+	BranchType  int       `json:"type"`
 	IsCorporate *bool     `json:"isCorporate,omitempty"`
 	IsAgency    *bool     `json:"isAgency,omitempty"`
 	Addresses   []Address `json:"addresses"`
@@ -29,9 +32,12 @@ type Country struct {
 }
 
 type Result struct {
-	BranchID int
-	Name     string
-	Country  string
+	BranchID    int
+	Name        string
+	Country     string
+	BranchType  string
+	IsCorporate bool
+	IsAgency    bool
 }
 
 func main() {
@@ -83,9 +89,11 @@ func main() {
 		isCorporate := b.IsCorporate != nil && *b.IsCorporate
 		isAgency := b.IsAgency != nil && *b.IsAgency
 
+		branchType := branchProto.BranchType_name[int32(b.BranchType)]
+
 		// Apply condition: (!isCorporate) OR (isAgency)
 		if !isCorporate || isAgency {
-			results = append(results, Result{BranchID: b.BranchID, Name: b.Name, Country: countryCode})
+			results = append(results, Result{BranchID: b.BranchID, Name: b.Name, Country: countryCode, BranchType: branchType, IsCorporate: isCorporate, IsAgency: isAgency})
 		}
 	}
 
@@ -108,12 +116,26 @@ func main() {
 	defer writer.Flush()
 
 	// Header
-	if err := writer.Write([]string{"Branch", "Name", "Country"}); err != nil {
+	if err := writer.Write([]string{"Branch", "Name", "Country", "BranchType", "IsCorporate", "IsAgency"}); err != nil {
 		panic(err)
 	}
 	for _, r := range results {
-		if err := writer.Write([]string{strconv.Itoa(r.BranchID), r.Name, r.Country}); err != nil {
+		if err := writer.Write([]string{strconv.Itoa(r.BranchID), r.Name, r.Country, r.BranchType, isCorporateToString(r.IsCorporate), isAgencyToString(r.IsAgency)}); err != nil {
 			panic(err)
 		}
 	}
+}
+
+func isCorporateToString(isCorporate bool) string {
+	if isCorporate {
+		return "Corporate"
+	}
+	return "Franchise"
+}
+
+func isAgencyToString(isAgency bool) string {
+	if isAgency {
+		return "Agency"
+	}
+	return "NotAgency"
 }
