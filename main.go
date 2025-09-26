@@ -14,6 +14,7 @@ type BranchesWrapper struct {
 
 type Branch struct {
 	BranchID    int       `json:"branchId"`
+	Name        string    `json:"name"`
 	IsCorporate *bool     `json:"isCorporate,omitempty"`
 	IsAgency    *bool     `json:"isAgency,omitempty"`
 	Addresses   []Address `json:"addresses"`
@@ -29,6 +30,7 @@ type Country struct {
 
 type Result struct {
 	BranchID int
+	Name     string
 	Country  string
 }
 
@@ -45,14 +47,14 @@ func main() {
 		panic(err)
 	}
 
-	// Read excluded countries from CSV
-	excluded := make(map[string]struct{})
-	excludedFile, err := os.Open("corporate.csv")
+	// Read corporate countries from CSV
+	corporate := make(map[string]struct{})
+	corporateFile, err := os.Open("corporate.csv")
 	if err != nil {
 		panic(err)
 	}
-	defer excludedFile.Close()
-	reader := csv.NewReader(excludedFile)
+	defer corporateFile.Close()
+	reader := csv.NewReader(corporateFile)
 	records, err := reader.ReadAll()
 	if err != nil {
 		panic(err)
@@ -62,26 +64,28 @@ func main() {
 			continue // skip header
 		}
 		if len(rec) >= 2 {
-			excluded[rec[1]] = struct{}{}
+			corporate[rec[1]] = struct{}{}
 		}
 	}
 
 	var results []Result
 	for _, b := range wrapper.Branches {
+		countryCode := ""
+		if len(b.Addresses) > 0 {
+			countryCode = b.Addresses[0].Country.Iso2Code
+		}
+
+		// Skip if not a corporate country
+		if _, corporateCountry := corporate[countryCode]; !corporateCountry {
+			continue
+		}
+
 		isCorporate := b.IsCorporate != nil && *b.IsCorporate
 		isAgency := b.IsAgency != nil && *b.IsAgency
 
 		// Apply condition: (!isCorporate) OR (isAgency)
 		if !isCorporate || isAgency {
-			countryCode := ""
-			if len(b.Addresses) > 0 {
-				countryCode = b.Addresses[0].Country.Iso2Code
-			}
-			// Exclude branches whose country is in the corporate list
-			if _, skip := excluded[countryCode]; skip {
-				continue
-			}
-			results = append(results, Result{BranchID: b.BranchID, Country: countryCode})
+			results = append(results, Result{BranchID: b.BranchID, Name: b.Name, Country: countryCode})
 		}
 	}
 
@@ -104,11 +108,11 @@ func main() {
 	defer writer.Flush()
 
 	// Header
-	if err := writer.Write([]string{"Branch", "Country"}); err != nil {
+	if err := writer.Write([]string{"Branch", "Name", "Country"}); err != nil {
 		panic(err)
 	}
 	for _, r := range results {
-		if err := writer.Write([]string{strconv.Itoa(r.BranchID), r.Country}); err != nil {
+		if err := writer.Write([]string{strconv.Itoa(r.BranchID), r.Name, r.Country}); err != nil {
 			panic(err)
 		}
 	}
